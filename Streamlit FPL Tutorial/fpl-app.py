@@ -16,7 +16,6 @@ positions = list(df['position'].drop_duplicates())
 teams = list(df['team'].drop_duplicates())
 
 # App
-st.title(f"Fantasy Football Analysis")
 
 # Sidebar - title & filters
 st.sidebar.markdown('### Data Filters')
@@ -30,6 +29,9 @@ price_choice = st.sidebar.slider(
 df = df[df['position'].isin(position_choice)]
 df = df[df['team'].isin(teams_choice)]
 df = df[df['cost'] < price_choice]
+
+# Main
+st.title(f"Fantasy Football Analysis")
 
 # Main - dataframes
 st.markdown('### Player Dataframe')
