@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,Referee
+13/08/2016,Burnley,Swansea,0,1,J Moss
+13/08/2016,Crystal Palace,West Brom,0,1,C Pawson
+13/08/2016,Everton,Tottenham,1,1,M Atkinson
+13/08/2016,Hull,Leicester,2,1,M Dean
+13/08/2016,Man City,Sunderland,2,1,R Madley
+13/08/2016,Middlesbrough,Stoke,1,1,K Friend
+13/08/2016,Southampton,Watford,1,1,R East
+14/08/2016,Arsenal,Liverpool,3,4,M Oliver
+14/08/2016,Bournemouth,Man United,1,3,A Marriner
+15/08/2016,Chelsea,West Ham,2,1,A Taylor
+19/08/2016,Man United,Southampton,2,0,A Taylor
+20/08/2016,Burnley,Liverpool,2,0,L Mason
+20/08/2016,Leicester,Arsenal,0,0,M Clattenburg
+20/08/2016,Stoke,Man City,1,4,M Dean
+20/08/2016,Swansea,Hull,0,2,S Attwell
+20/08/2016,Tottenham,Crystal Palace,1,0,M Oliver
+20/08/2016,Watford,Chelsea,1,2,J Moss
+20/08/2016,West Brom,Everton,1,2,N Swarbrick
+21/08/2016,Sunderland,Middlesbrough,1,2,M Atkinson
+21/08/2016,West Ham,Bournemouth,1,0,C Pawson
+27/08/2016,Chelsea,Burnley,3,0,M Clattenburg
+27/08/2016,Crystal Palace,Bournemouth,1,1,M Dean
+27/08/2016,Everton,Stoke,1,0,M Oliver
+27/08/2016,Hull,Man United,0,1,J Moss
+27/08/2016,Leicester,Swansea,2,1,R East
+27/08/2016,Southampton,Sunderland,1,1,L Mason
+27/08/2016,Tottenham,Liverpool,1,1,R Madley
+27/08/2016,Watford,Arsenal,1,3,K Friend
+28/08/2016,Man City,West Ham,3,1,A Marriner
+28/08/2016,West Brom,Middlesbrough,0,0,A Taylor
+10/09/2016,Arsenal,Southampton,2,1,R Madley
+10/09/2016,Bournemouth,West Brom,1,0,K Friend
+10/09/2016,Burnley,Hull,1,1,P Tierney
+10/09/2016,Liverpool,Leicester,4,1,C Pawson
+10/09/2016,Man United,Man City,1,2,M Clattenburg
+10/09/2016,Middlesbrough,Crystal Palace,1,2,N Swarbrick
+10/09/2016,Stoke,Tottenham,0,4,A Taylor
+10/09/2016,West Ham,Watford,2,4,M Atkinson
+11/09/2016,Swansea,Chelsea,2,2,A Marriner
+12/09/2016,Sunderland,Everton,0,3,M Jones
+16/09/2016,Chelsea,Liverpool,1,2,M Atkinson
+17/09/2016,Everton,Middlesbrough,3,1,L Mason
+17/09/2016,Hull,Arsenal,1,4,R East
+17/09/2016,Leicester,Burnley,3,0,A Taylor
+17/09/2016,Man City,Bournemouth,4,0,J Moss
+17/09/2016,West Brom,West Ham,4,2,M Clattenburg
+18/09/2016,Crystal Palace,Stoke,4,1,C Pawson
+18/09/2016,Southampton,Swansea,1,0,M Jones
+18/09/2016,Tottenham,Sunderland,1,0,M Dean
+18/09/2016,Watford,Man United,3,1,M Oliver
+24/09/2016,Arsenal,Chelsea,3,0,M Oliver
+24/09/2016,Bournemouth,Everton,1,0,R Madley
+24/09/2016,Liverpool,Hull,5,1,A Marriner
+24/09/2016,Man United,Leicester,4,1,M Dean
+24/09/2016,Middlesbrough,Tottenham,1,2,G Scott
+24/09/2016,Stoke,West Brom,1,1,M Atkinson
+24/09/2016,Sunderland,Crystal Palace,2,3,A Taylor
+24/09/2016,Swansea,Man City,1,3,N Swarbrick
+25/09/2016,West Ham,Southampton,0,3,J Moss
+26/09/2016,Burnley,Watford,2,0,M Jones
+30/09/2016,Everton,Crystal Palace,1,1,J Moss
+01/10/2016,Hull,Chelsea,0,2,A Taylor
+01/10/2016,Sunderland,West Brom,1,1,S Attwell
+01/10/2016,Swansea,Liverpool,1,2,M Oliver
+01/10/2016,Watford,Bournemouth,2,2,M Dean
+01/10/2016,West Ham,Middlesbrough,1,1,N Swarbrick
+02/10/2016,Burnley,Arsenal,0,1,C Pawson
+02/10/2016,Leicester,Southampton,0,0,M Atkinson
+02/10/2016,Man United,Stoke,1,1,R Madley
+02/10/2016,Tottenham,Man City,2,0,A Marriner
+15/10/2016,Arsenal,Swansea,3,2,J Moss
+15/10/2016,Bournemouth,Hull,6,1,L Mason
+15/10/2016,Chelsea,Leicester,3,0,A Marriner
+15/10/2016,Crystal Palace,West Ham,0,1,M Atkinson
+15/10/2016,Man City,Everton,1,1,M Oliver
+15/10/2016,Stoke,Sunderland,2,0,M Jones
+15/10/2016,West Brom,Tottenham,1,1,K Friend
+16/10/2016,Middlesbrough,Watford,0,1,R East
+16/10/2016,Southampton,Burnley,3,1,M Dean
+17/10/2016,Liverpool,Man United,0,0,A Taylor
+22/10/2016,Arsenal,Middlesbrough,0,0,M Dean
+22/10/2016,Bournemouth,Tottenham,0,0,C Pawson
+22/10/2016,Burnley,Everton,2,1,M Jones
+22/10/2016,Hull,Stoke,0,2,K Friend
+22/10/2016,Leicester,Crystal Palace,3,1,M Oliver
+22/10/2016,Liverpool,West Brom,2,1,N Swarbrick
+22/10/2016,Swansea,Watford,0,0,P Tierney
+22/10/2016,West Ham,Sunderland,1,0,R Madley
+23/10/2016,Chelsea,Man United,4,0,M Atkinson
+23/10/2016,Man City,Southampton,1,1,M Clattenburg
+29/10/2016,Crystal Palace,Liverpool,2,4,A Marriner
+29/10/2016,Man United,Burnley,0,0,M Clattenburg
+29/10/2016,Middlesbrough,Bournemouth,2,0,S Attwell
+29/10/2016,Sunderland,Arsenal,1,4,M Atkinson
+29/10/2016,Tottenham,Leicester,1,1,R Madley
+29/10/2016,Watford,Hull,1,0,J Moss
+29/10/2016,West Brom,Man City,0,4,L Mason
+30/10/2016,Everton,West Ham,2,0,A Taylor
+30/10/2016,Southampton,Chelsea,0,2,M Jones
+31/10/2016,Stoke,Swansea,3,1,M Oliver
+05/11/2016,Bournemouth,Sunderland,1,2,M Dean
+05/11/2016,Burnley,Crystal Palace,3,2,A Taylor
+05/11/2016,Chelsea,Everton,5,0,R Madley
+05/11/2016,Man City,Middlesbrough,1,1,K Friend
+05/11/2016,West Ham,Stoke,1,1,A Marriner
+06/11/2016,Arsenal,Tottenham,1,1,M Clattenburg
+06/11/2016,Hull,Southampton,2,1,G Scott
+06/11/2016,Leicester,West Brom,1,2,C Pawson
+06/11/2016,Liverpool,Watford,6,1,M Oliver
+06/11/2016,Swansea,Man United,1,3,N Swarbrick
+19/11/2016,Crystal Palace,Man City,1,2,R Madley
+19/11/2016,Everton,Swansea,1,1,M Atkinson
+19/11/2016,Man United,Arsenal,1,1,A Marriner
+19/11/2016,Southampton,Liverpool,0,0,M Clattenburg
+19/11/2016,Stoke,Bournemouth,0,1,R East
+19/11/2016,Sunderland,Hull,3,0,L Mason
+19/11/2016,Tottenham,West Ham,3,2,M Dean
+19/11/2016,Watford,Leicester,2,1,N Swarbrick
+20/11/2016,Middlesbrough,Chelsea,0,1,J Moss
+21/11/2016,West Brom,Burnley,4,0,M Jones
+26/11/2016,Burnley,Man City,1,2,A Marriner
+26/11/2016,Chelsea,Tottenham,2,1,M Oliver
+26/11/2016,Hull,West Brom,1,1,P Tierney
+26/11/2016,Leicester,Middlesbrough,2,2,L Mason
+26/11/2016,Liverpool,Sunderland,2,0,A Taylor
+26/11/2016,Swansea,Crystal Palace,5,4,K Friend
+27/11/2016,Arsenal,Bournemouth,3,1,M Jones
+27/11/2016,Man United,West Ham,1,1,J Moss
+27/11/2016,Southampton,Everton,1,0,C Pawson
+27/11/2016,Watford,Stoke,0,1,R Madley
+03/12/2016,Crystal Palace,Southampton,3,0,N Swarbrick
+03/12/2016,Man City,Chelsea,1,3,A Taylor
+03/12/2016,Stoke,Burnley,2,0,M Clattenburg
+03/12/2016,Sunderland,Leicester,2,1,A Marriner
+03/12/2016,Tottenham,Swansea,5,0,J Moss
+03/12/2016,West Brom,Watford,3,1,G Scott
+03/12/2016,West Ham,Arsenal,1,5,C Pawson
+04/12/2016,Bournemouth,Liverpool,4,3,R Madley
+04/12/2016,Everton,Man United,1,1,M Oliver
+05/12/2016,Middlesbrough,Hull,1,0,M Dean
+10/12/2016,Arsenal,Stoke,3,1,L Mason
+10/12/2016,Burnley,Bournemouth,3,2,M Atkinson
+10/12/2016,Hull,Crystal Palace,3,3,M Jones
+10/12/2016,Leicester,Man City,4,2,M Oliver
+10/12/2016,Swansea,Sunderland,3,0,C Pawson
+10/12/2016,Watford,Everton,3,2,A Taylor
+11/12/2016,Chelsea,West Brom,1,0,M Dean
+11/12/2016,Liverpool,West Ham,2,2,M Clattenburg
+11/12/2016,Man United,Tottenham,1,0,R Madley
+11/12/2016,Southampton,Middlesbrough,1,0,S Attwell
+13/12/2016,Bournemouth,Leicester,1,0,P Tierney
+13/12/2016,Everton,Arsenal,2,1,M Clattenburg
+14/12/2016,Crystal Palace,Man United,1,2,C Pawson
+14/12/2016,Man City,Watford,2,0,K Friend
+14/12/2016,Middlesbrough,Liverpool,0,3,J Moss
+14/12/2016,Stoke,Southampton,0,0,A Taylor
+14/12/2016,Sunderland,Chelsea,0,1,N Swarbrick
+14/12/2016,Tottenham,Hull,3,0,A Marriner
+14/12/2016,West Brom,Swansea,3,1,M Oliver
+14/12/2016,West Ham,Burnley,1,0,R Madley
+17/12/2016,Crystal Palace,Chelsea,0,1,J Moss
+17/12/2016,Middlesbrough,Swansea,3,0,N Swarbrick
+17/12/2016,Stoke,Leicester,2,2,C Pawson
+17/12/2016,Sunderland,Watford,1,0,R Madley
+17/12/2016,West Brom,Man United,0,2,A Taylor
+17/12/2016,West Ham,Hull,1,0,L Mason
+18/12/2016,Bournemouth,Southampton,1,3,M Clattenburg
+18/12/2016,Man City,Arsenal,2,1,M Atkinson
+18/12/2016,Tottenham,Burnley,2,1,K Friend
+19/12/2016,Everton,Liverpool,0,1,M Dean
+26/12/2016,Arsenal,West Brom,1,0,N Swarbrick
+26/12/2016,Burnley,Middlesbrough,1,0,C Pawson
+26/12/2016,Chelsea,Bournemouth,3,0,M Jones
+26/12/2016,Hull,Man City,0,3,R Madley
+26/12/2016,Leicester,Everton,0,2,S Attwell
+26/12/2016,Man United,Sunderland,3,1,M Atkinson
+26/12/2016,Swansea,West Ham,1,4,A Marriner
+26/12/2016,Watford,Crystal Palace,1,1,M Clattenburg
+27/12/2016,Liverpool,Stoke,4,1,M Oliver
+28/12/2016,Southampton,Tottenham,1,4,M Dean
+30/12/2016,Hull,Everton,2,2,J Moss
+31/12/2016,Burnley,Sunderland,4,1,G Scott
+31/12/2016,Chelsea,Stoke,4,2,R Madley
+31/12/2016,Leicester,West Ham,1,0,A Taylor
+31/12/2016,Liverpool,Man City,1,0,C Pawson
+31/12/2016,Man United,Middlesbrough,2,1,L Mason
+31/12/2016,Southampton,West Brom,1,2,M Jones
+31/12/2016,Swansea,Bournemouth,0,3,K Friend
+01/01/2017,Arsenal,Crystal Palace,2,0,A Marriner
+01/01/2017,Watford,Tottenham,1,4,M Oliver
+02/01/2017,Everton,Southampton,3,0,K Friend
+02/01/2017,Man City,Burnley,2,1,L Mason
+02/01/2017,Middlesbrough,Leicester,0,0,R Madley
+02/01/2017,Sunderland,Liverpool,2,2,A Taylor
+02/01/2017,West Brom,Hull,3,1,M Clattenburg
+02/01/2017,West Ham,Man United,0,2,M Dean
+03/01/2017,Bournemouth,Arsenal,3,3,M Oliver
+03/01/2017,Crystal Palace,Swansea,1,2,P Tierney
+03/01/2017,Stoke,Watford,2,0,N Swarbrick
+04/01/2017,Tottenham,Chelsea,2,0,M Atkinson
+14/01/2017,Burnley,Southampton,1,0,P Tierney
+14/01/2017,Hull,Bournemouth,3,1,M Atkinson
+14/01/2017,Leicester,Chelsea,0,3,A Marriner
+14/01/2017,Sunderland,Stoke,1,3,M Dean
+14/01/2017,Swansea,Arsenal,0,4,M Jones
+14/01/2017,Tottenham,West Brom,4,0,A Taylor
+14/01/2017,Watford,Middlesbrough,0,0,J Moss
+14/01/2017,West Ham,Crystal Palace,3,0,N Swarbrick
+15/01/2017,Everton,Man City,4,0,M Clattenburg
+15/01/2017,Man United,Liverpool,1,1,M Oliver
+21/01/2017,Bournemouth,Watford,2,2,L Mason
+21/01/2017,Crystal Palace,Everton,0,1,A Taylor
+21/01/2017,Liverpool,Swansea,2,3,K Friend
+21/01/2017,Man City,Tottenham,2,2,A Marriner
+21/01/2017,Middlesbrough,West Ham,1,3,M Atkinson
+21/01/2017,Stoke,Man United,1,1,M Clattenburg
+21/01/2017,West Brom,Sunderland,2,0,C Pawson
+22/01/2017,Arsenal,Burnley,2,1,J Moss
+22/01/2017,Chelsea,Hull,2,0,N Swarbrick
+22/01/2017,Southampton,Leicester,3,0,M Oliver
+31/01/2017,Arsenal,Watford,1,2,A Marriner
+31/01/2017,Bournemouth,Crystal Palace,0,2,J Moss
+31/01/2017,Burnley,Leicester,1,0,M Dean
+31/01/2017,Liverpool,Chelsea,1,1,M Clattenburg
+31/01/2017,Middlesbrough,West Brom,1,1,S Attwell
+31/01/2017,Sunderland,Tottenham,0,0,L Mason
+31/01/2017,Swansea,Southampton,2,1,R East
+01/02/2017,Man United,Hull,0,0,M Jones
+01/02/2017,Stoke,Everton,1,1,C Pawson
+01/02/2017,West Ham,Man City,0,4,K Friend
+04/02/2017,Chelsea,Arsenal,3,1,M Atkinson
+04/02/2017,Crystal Palace,Sunderland,0,4,A Marriner
+04/02/2017,Everton,Bournemouth,6,3,M Jones
+04/02/2017,Hull,Liverpool,2,0,L Mason
+04/02/2017,Southampton,West Ham,1,3,G Scott
+04/02/2017,Tottenham,Middlesbrough,1,0,M Clattenburg
+04/02/2017,Watford,Burnley,2,1,M Oliver
+04/02/2017,West Brom,Stoke,1,0,K Friend
+05/02/2017,Leicester,Man United,0,3,A Taylor
+05/02/2017,Man City,Swansea,2,1,M Dean
+11/02/2017,Arsenal,Hull,2,0,M Clattenburg
+11/02/2017,Liverpool,Tottenham,2,0,A Taylor
+11/02/2017,Man United,Watford,2,0,R Madley
+11/02/2017,Middlesbrough,Everton,0,0,M Dean
+11/02/2017,Stoke,Crystal Palace,1,0,M Atkinson
+11/02/2017,Sunderland,Southampton,0,4,P Tierney
+11/02/2017,West Ham,West Brom,2,2,M Oliver
+12/02/2017,Burnley,Chelsea,1,1,K Friend
+12/02/2017,Swansea,Leicester,2,0,J Moss
+13/02/2017,Bournemouth,Man City,0,2,N Swarbrick
+25/02/2017,Chelsea,Swansea,3,1,N Swarbrick
+25/02/2017,Crystal Palace,Middlesbrough,1,0,R Madley
+25/02/2017,Everton,Sunderland,2,0,S Attwell
+25/02/2017,Hull,Burnley,1,1,M Atkinson
+25/02/2017,Watford,West Ham,1,1,C Pawson
+25/02/2017,West Brom,Bournemouth,2,1,M Clattenburg
+26/02/2017,Tottenham,Stoke,4,0,J Moss
+27/02/2017,Leicester,Liverpool,3,1,M Oliver
+04/03/2017,Leicester,Hull,3,1,M Dean
+04/03/2017,Liverpool,Arsenal,3,1,R Madley
+04/03/2017,Man United,Bournemouth,1,1,K Friend
+04/03/2017,Stoke,Middlesbrough,2,0,C Pawson
+04/03/2017,Swansea,Burnley,3,2,A Taylor
+04/03/2017,Watford,Southampton,3,4,J Moss
+04/03/2017,West Brom,Crystal Palace,0,2,M Jones
+05/03/2017,Sunderland,Man City,0,2,M Atkinson
+05/03/2017,Tottenham,Everton,3,2,M Oliver
+06/03/2017,West Ham,Chelsea,1,2,A Marriner
+08/03/2017,Man City,Stoke,0,0,N Swarbrick
+11/03/2017,Bournemouth,West Ham,3,2,R Madley
+11/03/2017,Everton,West Brom,3,0,G Scott
+11/03/2017,Hull,Swansea,2,1,A Marriner
+12/03/2017,Liverpool,Burnley,2,1,C Pawson
+18/03/2017,Bournemouth,Swansea,2,0,M Dean
+18/03/2017,Crystal Palace,Watford,1,0,M Atkinson
+18/03/2017,Everton,Hull,4,0,P Tierney
+18/03/2017,Stoke,Chelsea,1,2,A Taylor
+18/03/2017,Sunderland,Burnley,0,0,R Madley
+18/03/2017,West Brom,Arsenal,3,1,N Swarbrick
+18/03/2017,West Ham,Leicester,2,3,R East
+19/03/2017,Man City,Liverpool,1,1,M Oliver
+19/03/2017,Middlesbrough,Man United,1,3,J Moss
+19/03/2017,Tottenham,Southampton,2,1,A Marriner
+01/04/2017,Burnley,Tottenham,0,2,S Attwell
+01/04/2017,Chelsea,Crystal Palace,1,2,C Pawson
+01/04/2017,Hull,West Ham,2,1,M Jones
+01/04/2017,Leicester,Stoke,2,0,L Mason
+01/04/2017,Liverpool,Everton,3,1,A Taylor
+01/04/2017,Man United,West Brom,0,0,M Dean
+01/04/2017,Southampton,Bournemouth,0,0,J Moss
+01/04/2017,Watford,Sunderland,1,0,L Probert
+02/04/2017,Arsenal,Man City,2,2,A Marriner
+02/04/2017,Swansea,Middlesbrough,0,0,R Madley
+04/04/2017,Burnley,Stoke,1,0,K Friend
+04/04/2017,Leicester,Sunderland,2,0,G Scott
+04/04/2017,Man United,Everton,1,1,N Swarbrick
+04/04/2017,Watford,West Brom,2,0,P Tierney
+05/04/2017,Arsenal,West Ham,3,0,M Atkinson
+05/04/2017,Chelsea,Man City,2,1,M Dean
+05/04/2017,Hull,Middlesbrough,4,2,M Oliver
+05/04/2017,Liverpool,Bournemouth,2,2,L Mason
+05/04/2017,Southampton,Crystal Palace,3,1,R East
+05/04/2017,Swansea,Tottenham,1,3,J Moss
+08/04/2017,Bournemouth,Chelsea,1,3,A Marriner
+08/04/2017,Man City,Hull,3,1,J Moss
+08/04/2017,Middlesbrough,Burnley,0,0,M Atkinson
+08/04/2017,Stoke,Liverpool,1,2,M Dean
+08/04/2017,Tottenham,Watford,4,0,A Taylor
+08/04/2017,West Brom,Southampton,0,1,C Kavanagh
+08/04/2017,West Ham,Swansea,1,0,K Friend
+09/04/2017,Everton,Leicester,4,2,R Madley
+09/04/2017,Sunderland,Man United,0,3,C Pawson
+10/04/2017,Crystal Palace,Arsenal,3,0,M Oliver
+15/04/2017,Crystal Palace,Leicester,2,2,M Dean
+15/04/2017,Everton,Burnley,3,1,M Clattenburg
+15/04/2017,Southampton,Man City,0,3,N Swarbrick
+15/04/2017,Stoke,Hull,3,1,S Attwell
+15/04/2017,Sunderland,West Ham,2,2,A Marriner
+15/04/2017,Tottenham,Bournemouth,4,0,M Oliver
+15/04/2017,Watford,Swansea,1,0,L Mason
+16/04/2017,Man United,Chelsea,2,0,R Madley
+16/04/2017,West Brom,Liverpool,0,1,J Moss
+17/04/2017,Middlesbrough,Arsenal,1,2,A Taylor
+22/04/2017,Bournemouth,Middlesbrough,4,0,G Scott
+22/04/2017,Hull,Watford,2,0,R Madley
+22/04/2017,Swansea,Stoke,2,0,M Oliver
+22/04/2017,West Ham,Everton,0,0,R East
+23/04/2017,Burnley,Man United,0,2,A Taylor
+23/04/2017,Liverpool,Crystal Palace,1,2,A Marriner
+25/04/2017,Chelsea,Southampton,4,2,L Mason
+26/04/2017,Arsenal,Leicester,1,0,M Jones
+26/04/2017,Crystal Palace,Tottenham,0,1,J Moss
+26/04/2017,Middlesbrough,Sunderland,1,0,M Dean
+27/04/2017,Man City,Man United,0,0,M Atkinson
+29/04/2017,Crystal Palace,Burnley,0,2,R Madley
+29/04/2017,Southampton,Hull,0,0,M Dean
+29/04/2017,Stoke,West Ham,0,0,L Probert
+29/04/2017,Sunderland,Bournemouth,0,1,S Attwell
+29/04/2017,West Brom,Leicester,0,1,M Clattenburg
+30/04/2017,Everton,Chelsea,0,3,J Moss
+30/04/2017,Man United,Swansea,1,1,N Swarbrick
+30/04/2017,Middlesbrough,Man City,2,2,K Friend
+30/04/2017,Tottenham,Arsenal,2,0,M Oliver
+01/05/2017,Watford,Liverpool,0,1,C Pawson
+05/05/2017,West Ham,Tottenham,1,0,A Taylor
+06/05/2017,Bournemouth,Stoke,2,2,P Tierney
+06/05/2017,Burnley,West Brom,2,2,M Jones
+06/05/2017,Hull,Sunderland,0,2,N Swarbrick
+06/05/2017,Leicester,Watford,3,0,R East
+06/05/2017,Man City,Crystal Palace,5,0,M Oliver
+06/05/2017,Swansea,Everton,1,0,M Atkinson
+07/05/2017,Arsenal,Man United,2,0,A Marriner
+07/05/2017,Liverpool,Southampton,0,0,R Madley
+08/05/2017,Chelsea,Middlesbrough,3,0,C Pawson
+10/05/2017,Southampton,Arsenal,0,2,J Moss
+12/05/2017,Everton,Watford,1,0,K Friend
+12/05/2017,West Brom,Chelsea,0,1,M Oliver
+13/05/2017,Bournemouth,Burnley,2,1,L Probert
+13/05/2017,Man City,Leicester,2,1,R Madley
+13/05/2017,Middlesbrough,Southampton,1,2,A Taylor
+13/05/2017,Stoke,Arsenal,1,4,M Dean
+13/05/2017,Sunderland,Swansea,0,2,A Marriner
+14/05/2017,Crystal Palace,Hull,4,0,M Atkinson
+14/05/2017,Tottenham,Man United,2,1,J Moss
+14/05/2017,West Ham,Liverpool,0,4,N Swarbrick
+15/05/2017,Chelsea,Watford,4,3,L Mason
+16/05/2017,Arsenal,Sunderland,2,0,R East
+16/05/2017,Man City,West Brom,3,1,C Pawson
+17/05/2017,Southampton,Man United,0,0,M Dean
+18/05/2017,Leicester,Tottenham,1,6,M Oliver
+21/05/2017,Arsenal,Everton,3,1,M Oliver
+21/05/2017,Burnley,West Ham,1,2,R Madley
+21/05/2017,Chelsea,Sunderland,5,1,N Swarbrick
+21/05/2017,Hull,Tottenham,1,7,A Marriner
+21/05/2017,Leicester,Bournemouth,1,1,l Mason
+21/05/2017,Liverpool,Middlesbrough,3,0,M Atkinson
+21/05/2017,Man United,Crystal Palace,2,0,A Taylor
+21/05/2017,Southampton,Stoke,0,1,L Probert
+21/05/2017,Swansea,West Brom,2,1,M Dean
+21/05/2017,Watford,Man City,0,5,J Moss
