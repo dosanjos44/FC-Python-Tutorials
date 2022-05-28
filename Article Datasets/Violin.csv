@@ -1,0 +1,503 @@
+Number,Player,Born,Age,Market value,Team
+1,Junling Yan Keeper,"Jan 28, 1991",26,£510k,Shanghai SIPG
+22,Le Sun Keeper,"Sep 17, 1989",27,£43k,Shanghai SIPG
+34,Wei Chen Keeper,"Feb 14, 1998",19,£21k,Shanghai SIPG
+35,Xiaodong Shi Keeper,"Feb 26, 1997",20,£21k,Shanghai SIPG
+16,Ricardo Carvalho Centre-Back,"May 18, 1978",38,£340k,Shanghai SIPG
+27,Ke Shi Centre-Back,"Jan 8, 1993",24,£276k,Shanghai SIPG
+13,Zhen Wei Centre-Back,"Feb 12, 1997",20,£21k,Shanghai SIPG
+36,Hao Yu Centre-Back,"Sep 5, 1997",19,£21k,Shanghai SIPG
+4,Shenchao Wang  Left-Back,"Feb 8, 1989",28,£319k,Shanghai SIPG
+2,Wei Zhang Left-Back,"Mar 28, 1993",23,£64k,Shanghai SIPG
+29,Zhiyun Zheng Left-Back,"Feb 17, 1995",22,£43k,Shanghai SIPG
+23,Huan Fu Right-Back,"Jul 12, 1993",23,£298k,Shanghai SIPG
+28,Guan He Right-Back,"Jan 25, 1993",24,£106k,Shanghai SIPG
+24,Wenjie Lei Midfield,"Jan 10, 1997",20,£21k,Shanghai SIPG
+26,Haisheng Gao Midfield,"Jan 6, 1997",20,£21k,Shanghai SIPG
+31,Zilei Jiang Midfield,"Sep 10, 1997",19,£21k,Shanghai SIPG
+25,Odil Akhmedov Defensive Midfield,"Nov 25, 1987",29,£4.68m,Shanghai SIPG
+6,Huikang Cai Defensive Midfield,"Oct 10, 1989",27,£595k,Shanghai SIPG
+5,Jiajie Wang Defensive Midfield,"Nov 15, 1988",28,£149k,Shanghai SIPG
+17,Huachen Zhang Defensive Midfield,"Mar 16, 1998",18,£43k,Shanghai SIPG
+21,Hai Yu Central Midfield,"Jun 4, 1987",29,£468k,Shanghai SIPG
+18,Yi Zhang Central Midfield,"Aug 17, 1993",23,£21k,Shanghai SIPG
+8,Oscar Attacking Midfield,"Sep 9, 1991",25,£21.25m,Shanghai SIPG
+19,Tianzi Jia Attacking Midfield,"Feb 28, 1994",23,£43k,Shanghai SIPG
+14,Shenglong Li Striker,"Jul 30, 1992",24,£43k,Shanghai SIPG
+30,Zhijie Gao Striker,"Jun 16, 1997",19,£21k,Shanghai SIPG
+37,Binbin Chen Striker,"Jun 10, 1998",18,£21k,Shanghai SIPG
+11,Wenjun Lü Left Wing,"Mar 11, 1989",28,£298k,Shanghai SIPG
+15,Chuangyi Lin Left Wing,"Jan 28, 1993",24,£85k,Shanghai SIPG
+33,Shihao Wei Left Wing,"Apr 8, 1995",21,£43k,Shanghai SIPG
+10,Hulk Right Wing,"Jul 25, 1986",30,£18.70m,Shanghai SIPG
+7,Lei Wu Right Wing,"Nov 19, 1991",25,£1.28m,Shanghai SIPG
+9,Elkeson Centre-Forward,"Jul 13, 1989",27,£4.42m,Shanghai SIPG
+19,Cheng Zeng Keeper,"Jan 8, 1987",30,£510k,Guangzhou Evergrande Taobao
+32,Dianzuo Liu Keeper,"Jun 26, 1990",26,£170k,Guangzhou Evergrande Taobao
+13,Jingqi Fang Keeper,"Jan 17, 1993",24,£43k,Guangzhou Evergrande Taobao
+39,Tianci Zhao Keeper,"Mar 20, 1995",21,£21k,Guangzhou Evergrande Taobao
+23,Hyung-Il Kim Centre-Back,"Apr 27, 1984",32,£553k,Guangzhou Evergrande Taobao
+6,Xiaoting Feng Centre-Back,"Oct 22, 1985",31,£531k,Guangzhou Evergrande Taobao
+3,Fang Mei Centre-Back,"Nov 14, 1989",27,£425k,Guangzhou Evergrande Taobao
+17,Jian Liu Centre-Back,"Jan 20, 1985",32,£128k,Guangzhou Evergrande Taobao
+31,Yuduo Wu Centre-Back,"May 3, 1995",21,£21k,Guangzhou Evergrande Taobao
+35,Xuepeng Li Left-Back,"Sep 18, 1988",28,£340k,Guangzhou Evergrande Taobao
+14,Hao Rong Left-Back,"Apr 7, 1987",29,£298k,Guangzhou Evergrande Taobao
+25,Zheng Zou Left-Back,"Feb 7, 1988",29,£170k,Guangzhou Evergrande Taobao
+21,Chenglin Zhang Left-Back,"Jan 20, 1987",30,£128k,Guangzhou Evergrande Taobao
+37,Zepeng Chen Left-Back,"May 18, 1996",20,£64k,Guangzhou Evergrande Taobao
+38,Jiabao Wen Left-Back,"Jan 2, 1999",18,£21k,Guangzhou Evergrande Taobao
+5,Linpeng Zhang Right-Back,"May 9, 1989",27,£850k,Guangzhou Evergrande Taobao
+10,Zhi Zheng  Defensive Midfield,"Aug 20, 1980",36,£170k,Guangzhou Evergrande Taobao
+4,Xin Xu Defensive Midfield,"Apr 19, 1994",22,£128k,Guangzhou Evergrande Taobao
+8,Paulinho Central Midfield,"Jul 25, 1988",28,£8.50m,Guangzhou Evergrande Taobao
+16,Bowen Huang Central Midfield,"Jul 13, 1987",29,£595k,Guangzhou Evergrande Taobao
+2,Lisheng Liao Central Midfield,"Apr 29, 1993",23,£170k,Guangzhou Evergrande Taobao
+12,Shangyuan Wang Right Midfield,"Jun 2, 1993",23,£255k,Guangzhou Evergrande Taobao
+15,Wenzhao Zhang Right Midfield,"May 28, 1987",29,£213k,Guangzhou Evergrande Taobao
+27,Long Zheng Left Midfield,"Apr 15, 1988",28,£340k,Guangzhou Evergrande Taobao
+33,Mingmin Cai Attacking Midfield,"Oct 30, 2000",16,£21k,Guangzhou Evergrande Taobao
+7,Alan Left Wing,"Jul 10, 1989",27,£5.53m,Guangzhou Evergrande Taobao
+20,Hanchao Yu Left Wing,"Feb 25, 1987",30,£425k,Guangzhou Evergrande Taobao
+26,Jingbin Wang Right Wing,"May 9, 1995",21,£106k,Guangzhou Evergrande Taobao
+24,Junhui Wang Right Wing,"May 18, 1995",21,£64k,Guangzhou Evergrande Taobao
+11,Ricardo Goulart Secondary Striker,"Jun 5, 1991",25,£10.20m,Guangzhou Evergrande Taobao
+9,Jackson Martínez Centre-Forward,"Oct 3, 1986",30,£7.65m,Guangzhou Evergrande Taobao
+29,Lin Gao Centre-Forward,"Feb 14, 1986",31,£616k,Guangzhou Evergrande Taobao
+1,Chao Gu Keeper,"Aug 20, 1989",27,£149k,Jiangsu Suning
+30,Sipeng Zhang Keeper,"May 14, 1987",29,£106k,Jiangsu Suning
+23,Haitao Li Keeper,"Nov 29, 1995",21,£21k,Jiangsu Suning
+26,Jeong-Ho Hong Centre-Back,"Aug 12, 1989",27,£1.70m,Jiangsu Suning
+2,Ang Li Centre-Back,"Sep 15, 1993",23,£383k,Jiangsu Suning
+39,Boyu Yang Centre-Back,"Jun 24, 1989",27,£85k,Jiangsu Suning
+19,Jiajun Huang Centre-Back,"Aug 19, 1995",21,£64k,Jiangsu Suning
+18,Wei Liu Centre-Back,"Jan 7, 1993",24,£43k,Jiangsu Suning
+21,Haiqing Cao Left-Back,"Sep 28, 1993",23,£149k,Jiangsu Suning
+28,Xiaotian Yang Left-Back,"Mar 26, 1990",26,£106k,Jiangsu Suning
+24,Xiang Ji Right-Back,"Mar 1, 1990",27,£298k,Jiangsu Suning
+5,Yun Zhou Right-Back,"Dec 31, 1990",26,£191k,Jiangsu Suning
+32,Zichang Huang Midfield,"Apr 4, 1997",19,£43k,Jiangsu Suning
+3,Xiaofan Xie Midfield,"Mar 15, 1998",18,£21k,Jiangsu Suning
+29,Ji Chen Midfield,"Jan 5, 1997",20,£21k,Jiangsu Suning
+8,Jianye Liu Defensive Midfield,"Jun 17, 1987",29,£213k,Jiangsu Suning
+12,Xiaobin Zhang Defensive Midfield,"Oct 23, 1993",23,£170k,Jiangsu Suning
+16,Tianyi Gao Defensive Midfield,"Jul 1, 1998",18,£43k,Jiangsu Suning
+7,Ramires Central Midfield,"Mar 24, 1987",29,£11.90m,Jiangsu Suning
+22,Xi Wu  Central Midfield,"Feb 19, 1989",28,£680k,Jiangsu Suning
+20,Xinlin Zhang Left Midfield,"Feb 6, 1993",24,£106k,Jiangsu Suning
+10,Alex Teixeira Attacking Midfield,"Jan 6, 1990",27,£16.15m,Jiangsu Suning
+33,Song Wang Attacking Midfield,"Oct 12, 1983",33,£106k,Jiangsu Suning
+13,Yuan Tao Left Wing,"Jan 18, 1993",24,£85k,Jiangsu Suning
+14,Wenxiang Gu Left Wing,"Feb 8, 1991",26,£43k,Jiangsu Suning
+11,Pengfei Xie Right Wing,"Jun 29, 1993",23,£149k,Jiangsu Suning
+27,Jiawei Yang Right Wing,"Jan 4, 1992",25,£85k,Jiangsu Suning
+9,Roger Martínez Centre-Forward,"Jun 23, 1994",22,£4.08m,Jiangsu Suning
+31,Di Gao Centre-Forward,"Jan 6, 1990",27,£85k,Jiangsu Suning
+40,Wei Ge Centre-Forward,"Sep 9, 1989",27,£64k,Jiangsu Suning
+1,Lu Zhang  Keeper,"Sep 6, 1987",29,£128k,Tianjin Quanjian
+22,Jun Yang Keeper,"Jun 10, 1980",36,£43k,Tianjin Quanjian
+18,Jin Zhang Keeper,"Jun 7, 1994",22,£21k,Tianjin Quanjian
+13,Jinzhao Chu Defence,"Jan 11, 1993",24,£64k,Tianjin Quanjian
+5,Shanping Yang Centre-Back,"Oct 28, 1987",29,£191k,Tianjin Quanjian
+4,Yiming Liu Centre-Back,"Feb 28, 1995",22,£106k,Tianjin Quanjian
+2,Sheng Liu Centre-Back,"Sep 8, 1989",27,£85k,Tianjin Quanjian
+15,Jean-Jacques Kilama Centre-Back,"Oct 13, 1985",31,£85k,Tianjin Quanjian
+25,Haolun Mi Left-Back,"Jan 10, 1993",24,£149k,Tianjin Quanjian
+12,Zihao Yan Left-Back,"Jan 18, 1995",22,£64k,Tianjin Quanjian
+27,Cheng Zhang Right-Back,"Jun 28, 1989",27,£85k,Tianjin Quanjian
+21,Kyung-Won Kwon Defensive Midfield,"Jan 31, 1992",25,£553k,Tianjin Quanjian
+7,Xuri Zhao Defensive Midfield,"Dec 3, 1985",31,£170k,Tianjin Quanjian
+3,Jie Wang Defensive Midfield,"Jan 14, 1989",28,£85k,Tianjin Quanjian
+8,Xiuwei Zhang Defensive Midfield,"Mar 13, 1996",21,£64k,Tianjin Quanjian
+14,Long Huang Defensive Midfield,"Jan 8, 1993",24,£43k,Tianjin Quanjian
+28,Axel Witsel Central Midfield,"Jan 12, 1989",28,£12.75m,Tianjin Quanjian
+19,Xiaolong Wang Left Midfield,"Mar 11, 1986",31,£106k,Tianjin Quanjian
+39,Yongpo Wang Attacking Midfield,"Jan 19, 1987",30,£340k,Tianjin Quanjian
+29,Xingcan Li Attacking Midfield,"Sep 28, 1987",29,£43k,Tianjin Quanjian
+11,Geuvânio Left Wing,"Apr 5, 1992",24,£2.38m,Tianjin Quanjian
+38,Ke Sun Right Wing,"Aug 26, 1989",27,£319k,Tianjin Quanjian
+16,Dalun Zheng Right Wing,"Feb 11, 1994",23,£64k,Tianjin Quanjian
+10,Alexandre Pato Centre-Forward,"Sep 2, 1989",27,£4.25m,Tianjin Quanjian
+9,Junior Moraes Centre-Forward,"Apr 4, 1987",29,£2.98m,Tianjin Quanjian
+30,Shuo Zhang Centre-Forward,"Sep 17, 1983",33,£43k,Tianjin Quanjian
+17,Yuanjie Su Centre-Forward,"Apr 14, 1995",21,£21k,Tianjin Quanjian
+25,Dalei Wang  Keeper,"Jan 10, 1989",28,£638k,Shandong Luneng Taishan
+20,Rongze Han Keeper,"Jan 15, 1993",24,£64k,Shandong Luneng Taishan
+1,Zhenli Liu Keeper,"Jun 26, 1985",31,£43k,Shandong Luneng Taishan
+28,Yuchen Zhou Keeper,"Jan 12, 1995",22,£43k,Shandong Luneng Taishan
+4,Gil Centre-Back,"Jun 12, 1987",29,£5.61m,Shandong Luneng Taishan
+35,Lin Dai Centre-Back,"Nov 28, 1987",29,£234k,Shandong Luneng Taishan
+2,Songyi Li Centre-Back,"Jan 27, 1993",24,£106k,Shandong Luneng Taishan
+3,Junshuai Liu Centre-Back,"Jan 10, 1995",22,£64k,Shandong Luneng Taishan
+37,Jiong Wang Centre-Back,"Jan 5, 1994",23,£64k,Shandong Luneng Taishan
+32,Yang Liu Centre-Back,"Jun 17, 1995",21,£21k,Shandong Luneng Taishan
+5,Zheng Zheng Left-Back,"Jul 11, 1989",27,£170k,Shandong Luneng Taishan
+23,Long Song Left-Back,"Aug 20, 1989",27,£106k,Shandong Luneng Taishan
+39,Jiajun Jiang Left-Back,"Jan 8, 1990",27,£64k,Shandong Luneng Taishan
+30,Zhechao Chen Left-Back,"Apr 19, 1995",21,£43k,Shandong Luneng Taishan
+6,Tong Wang Right-Back,"Feb 12, 1993",24,£255k,Shandong Luneng Taishan
+34,Hailong Li Right-Back,"Aug 2, 1996",20,£21k,Shandong Luneng Taishan
+26,Wei Cui Midfield,"Aug 16, 1994",22,£21k,Shandong Luneng Taishan
+16,Haibin Zhou Defensive Midfield,"Jul 19, 1985",31,£234k,Shandong Luneng Taishan
+24,Tianyu Qi Defensive Midfield,"Jan 22, 1993",24,£106k,Shandong Luneng Taishan
+15,Wei Li Defensive Midfield,"Mar 18, 1985",31,£85k,Shandong Luneng Taishan
+22,Junmin Hao Central Midfield,"Mar 24, 1987",29,£574k,Shandong Luneng Taishan
+33,Jingdao Jin Central Midfield,"Nov 18, 1992",24,£149k,Shandong Luneng Taishan
+13,Chi Zhang Right Midfield,"Jul 8, 1987",29,£149k,Shandong Luneng Taishan
+21,Binbin Liu Left Midfield,"Jun 16, 1993",23,£255k,Shandong Luneng Taishan
+9,Diego Tardelli Left Wing,"May 10, 1985",31,£1.53m,Shandong Luneng Taishan
+17,Xinghan Wu Left Wing,"Feb 24, 1993",24,£170k,Shandong Luneng Taishan
+27,Pu Huang Right Wing,"Jul 1, 1994",22,£43k,Shandong Luneng Taishan
+19,Graziano Pellè Centre-Forward,"Jul 15, 1985",31,£6.80m,Shandong Luneng Taishan
+18,Papiss Demba Cissé Centre-Forward,"Jun 3, 1985",31,£4.25m,Shandong Luneng Taishan
+29,Yuan Cheng Centre-Forward,"Oct 8, 1993",23,£64k,Shandong Luneng Taishan
+8,Tianyu Guo Centre-Forward,"Mar 5, 1999",18,£21k,Shandong Luneng Taishan
+22,Zhi Yang Keeper,"Jan 15, 1983",34,£340k,Beijing Sinobo Guoan
+1,Sen Hou Keeper,"Jun 30, 1989",27,£43k,Beijing Sinobo Guoan
+25,Quanbo Guo Keeper,"Aug 31, 1997",19,£21k,Beijing Sinobo Guoan
+33,Yan Zhang Keeper,"Mar 30, 1997",19,£21k,Beijing Sinobo Guoan
+32,Xin Wei Defence,"Feb 17, 1995",22,£21k,Beijing Sinobo Guoan
+34,Chao Huang Defence,"Jul 24, 1997",19,£21k,Beijing Sinobo Guoan
+2,Egor Krimets Centre-Back,"Jan 27, 1992",25,£383k,Beijing Sinobo Guoan
+30,Tenglong Lei Centre-Back,"Jan 17, 1991",26,£276k,Beijing Sinobo Guoan
+3,Yang Yu Centre-Back,"Aug 6, 1989",27,£170k,Beijing Sinobo Guoan
+14,Pengxiang Jin Centre-Back,"Jan 25, 1990",27,£85k,Beijing Sinobo Guoan
+31,Hejing Zhao Left-Back,"May 19, 1985",31,£213k,Beijing Sinobo Guoan
+20,Xinxin Zhang  Left-Back,"Oct 19, 1983",33,£64k,Beijing Sinobo Guoan
+4,Lei Li Right-Back,"May 30, 1992",24,£85k,Beijing Sinobo Guoan
+28,Tao Jiang Right-Back,"Jun 29, 1989",27,£85k,Beijing Sinobo Guoan
+29,Dun Ba Midfield,"Sep 16, 1995",21,£43k,Beijing Sinobo Guoan
+27,Guichao Wu Midfield,"Jan 2, 1997",20,£21k,Beijing Sinobo Guoan
+5,Ralf Defensive Midfield,"Jun 9, 1984",32,£1.49m,Beijing Sinobo Guoan
+8,Cheng Piao Defensive Midfield,"Aug 21, 1989",27,£319k,Beijing Sinobo Guoan
+6,Xiaobin Zhang Defensive Midfield,"Feb 14, 1985",32,£85k,Beijing Sinobo Guoan
+21,Renato Augusto Central Midfield,"Feb 8, 1988",29,£6.38m,Beijing Sinobo Guoan
+26,Peng Lü Central Midfield,"Oct 28, 1989",27,£106k,Beijing Sinobo Guoan
+18,Taiyan Jin Right Midfield,"Aug 21, 1989",27,£191k,Beijing Sinobo Guoan
+16,Mingyang Du Right Midfield,"Jan 20, 1993",24,£85k,Beijing Sinobo Guoan
+10,Xizhe Zhang Left Midfield,"Jan 23, 1991",26,£638k,Beijing Sinobo Guoan
+11,Boxuan Song Left Midfield,"Sep 16, 1989",27,£170k,Beijing Sinobo Guoan
+24,Hanbo Li Left Midfield,"Jan 26, 1991",26,£64k,Beijing Sinobo Guoan
+15,Chaoqing Zhu Striker,"Feb 28, 1995",22,£21k,Beijing Sinobo Guoan
+23,Shi Tang Left Wing,"Jan 24, 1995",22,£64k,Beijing Sinobo Guoan
+19,Dabao Yu Right Wing,"Apr 18, 1988",28,£425k,Beijing Sinobo Guoan
+7,Chiming Zhang Right Wing,"Jan 7, 1989",28,£213k,Beijing Sinobo Guoan
+17,Burak Yilmaz Centre-Forward,"Jul 15, 1985",31,£4.68m,Beijing Sinobo Guoan
+9,Jonatan Soriano Centre-Forward,"Sep 24, 1985",31,£4.25m,Beijing Sinobo Guoan
+27,Shuai Li Keeper,"Aug 18, 1982",34,£128k,Shanghai Greenland Shenhua
+22,Shengjiong Qiu Keeper,"Sep 1, 1985",31,£64k,Shanghai Greenland Shenhua
+21,Jun Shen Keeper,"Oct 5, 1986",30,£21k,Shanghai Greenland Shenhua
+30,Jin Tao Defence,"Jun 2, 1985",31,£64k,Shanghai Greenland Shenhua
+4,Kee-Hee Kim Centre-Back,"Jul 13, 1989",27,£850k,Shanghai Greenland Shenhua
+3,Jianbin Li Centre-Back,"Apr 19, 1989",27,£128k,Shanghai Greenland Shenhua
+34,Jinhao Bi Centre-Back,"Jan 5, 1991",26,£106k,Shanghai Greenland Shenhua
+6,Peng Li Centre-Back,"Aug 29, 1990",26,£64k,Shanghai Greenland Shenhua
+23,Jiajun Bai Left-Back,"Mar 20, 1991",25,£213k,Shanghai Greenland Shenhua
+8,Lu Zhang Right-Back,"Aug 23, 1987",29,£128k,Shanghai Greenland Shenhua
+2,Fei Xiong Right-Back,"Oct 21, 1987",29,£106k,Shanghai Greenland Shenhua
+16,Yunqiu Li Right-Back,"Oct 3, 1990",26,£106k,Shanghai Greenland Shenhua
+25,Lin Wang Right-Back,"Sep 19, 1987",29,£85k,Shanghai Greenland Shenhua
+39,Zhen Cong Midfield,"Feb 9, 1997",20,£21k,Shanghai Greenland Shenhua
+26,Sheng Qin Defensive Midfield,"Nov 2, 1986",30,£191k,Shanghai Greenland Shenhua
+37,Shilin Sun Defensive Midfield,"Oct 24, 1988",28,£170k,Shanghai Greenland Shenhua
+5,Shouting Wang Defensive Midfield,"Sep 3, 1985",31,£85k,Shanghai Greenland Shenhua
+13,Fredy Guarín Central Midfield,"Jun 30, 1986",30,£5.53m,Shanghai Greenland Shenhua
+35,Pin Lü Central Midfield,"May 3, 1995",21,£43k,Shanghai Greenland Shenhua
+38,Tao Chen Central Midfield,"May 3, 1995",21,£21k,Shanghai Greenland Shenhua
+28,Yunding Cao Left Midfield,"Nov 22, 1989",27,£404k,Shanghai Greenland Shenhua
+29,Junmin Xu Left Midfield,"Sep 22, 1994",22,£64k,Shanghai Greenland Shenhua
+10,Giovanni Moreno  Attacking Midfield,"Jul 1, 1986",30,£3.57m,Shanghai Greenland Shenhua
+20,Yun Wang Attacking Midfield,"Mar 28, 1983",33,£85k,Shanghai Greenland Shenhua
+36,Ruofan Liu Attacking Midfield,"Jan 28, 1999",18,£43k,Shanghai Greenland Shenhua
+7,Jianqing Mao Left Wing,"Aug 8, 1986",30,£191k,Shanghai Greenland Shenhua
+31,Wei Wang Left Wing,"Jun 22, 1989",27,£64k,Shanghai Greenland Shenhua
+11,Zheng Lü Right Wing,"Feb 25, 1985",32,£128k,Shanghai Greenland Shenhua
+32,Carlos Tévez Secondary Striker,"Feb 5, 1984",33,£5.95m,Shanghai Greenland Shenhua
+17,Obafemi Martins Centre-Forward,"Oct 28, 1984",32,£2.13m,Shanghai Greenland Shenhua
+15,Jianrong Zhu Centre-Forward,"Jul 12, 1991",25,£43k,Shanghai Greenland Shenhua
+29,Qipeng Yang Keeper,"May 14, 1987",29,£106k,Tianjin Teda
+1,Jia Du Keeper,"May 1, 1993",23,£43k,Tianjin Teda
+30,Zheng Li Keeper,"Mar 18, 1997",19,£43k,Tianjin Teda
+21,Yingjie Zhao Defence,"Aug 2, 1992",24,£43k,Tianjin Teda
+2,Chuang Huang Defence,"Jan 2, 1997",20,£21k,Tianjin Teda
+31,Qiming Zhou Defence,"Jul 2, 1994",22,£21k,Tianjin Teda
+14,Seok-Ho Hwang Centre-Back,"Jun 27, 1989",27,£553k,Tianjin Teda
+4,Ximing Pan Centre-Back,"Jan 11, 1993",24,£85k,Tianjin Teda
+5,Tianyi Qiu Centre-Back,"Jan 31, 1989",28,£43k,Tianjin Teda
+26,Yang Cao Left-Back,"Dec 15, 1981",35,£43k,Tianjin Teda
+19,Yuefeng Bai Right-Back,"Mar 28, 1987",29,£213k,Tianjin Teda
+23,Tao Nie Right-Back,"Jan 18, 1987",30,£106k,Tianjin Teda
+28,Wangsong Tan Right-Back,"Dec 19, 1985",31,£64k,Tianjin Teda
+15,Bochao Liao Right-Back,"Jul 16, 1987",29,£43k,Tianjin Teda
+24,Jiarun Gao Midfield,"Apr 24, 1995",21,£21k,Tianjin Teda
+10,John Mikel Obi Defensive Midfield,"Apr 22, 1987",29,£6.80m,Tianjin Teda
+22,Hao Guo Defensive Midfield,"Jan 14, 1993",24,£106k,Tianjin Teda
+27,Nemanja Gudelj Central Midfield,"Nov 16, 1991",25,£4.68m,Tianjin Teda
+6,Dong Wang Central Midfield,"Sep 10, 1981",35,£64k,Tianjin Teda
+25,Mirahmetjan Muzepper Central Midfield,"Jan 14, 1991",26,£64k,Tianjin Teda
+13,Qiuming Wang Right Midfield,"Jan 9, 1993",24,£106k,Tianjin Teda
+11,Yuanyi Li Right Midfield,"Aug 28, 1993",23,£85k,Tianjin Teda
+3,Honglüe Zhao Right Midfield,"Dec 4, 1989",27,£64k,Tianjin Teda
+33,Tong Zhou Left Midfield,"Jan 12, 1990",27,£85k,Tianjin Teda
+20,Liyu Yang Striker,"Feb 13, 1997",20,£64k,Tianjin Teda
+17,Jiakang Hui Left Wing,"Aug 31, 1989",27,£106k,Tianjin Teda
+16,Yi Guo Left Wing,"Jan 29, 1993",24,£64k,Tianjin Teda
+8,Rentian Hu Right Wing,"Jan 21, 1991",26,£255k,Tianjin Teda
+39,Brown Ideye Centre-Forward,"Oct 10, 1988",28,£4.68m,Tianjin Teda
+9,Mbaye Diagne Centre-Forward,"Oct 28, 1991",25,£850k,Tianjin Teda
+32,Yongchi Lei Centre-Forward,"Jan 2, 1989",28,£64k,Tianjin Teda
+18,Liao Zhou Centre-Forward,"Jan 14, 1989",28,£43k,Tianjin Teda
+19,Cheng Yang Keeper,"Oct 11, 1985",31,£106k,Hebei China Fortune
+1,Ya Ou Keeper,"Feb 14, 1986",31,£43k,Hebei China Fortune
+34,Weichao Su Keeper,"Mar 2, 1993",24,£21k,Hebei China Fortune
+14,Ju-Young Kim Centre-Back,"Jul 9, 1988",28,£595k,Hebei China Fortune
+4,Yangyang Jin Centre-Back,"Feb 3, 1993",24,£170k,Hebei China Fortune
+16,Junjian Liao Centre-Back,"Jan 27, 1994",23,£149k,Hebei China Fortune
+5,Wei Du  Centre-Back,"Feb 9, 1982",35,£64k,Hebei China Fortune
+32,Haifeng Ding Left-Back,"Jul 17, 1991",25,£383k,Hebei China Fortune
+23,Hang Ren Left-Back,"Feb 23, 1989",28,£340k,Hebei China Fortune
+18,Yang Lu Left-Back,"Mar 3, 1991",26,£43k,Hebei China Fortune
+2,Mingjian Zhao Right-Back,"Nov 22, 1987",29,£383k,Hebei China Fortune
+13,Haoran Li Midfield,"Jan 12, 1993",24,£21k,Hebei China Fortune
+35,Shiwei Che Midfield,"Oct 30, 1996",20,£21k,Hebei China Fortune
+25,Stéphane Mbia Defensive Midfield,"May 20, 1986",30,£4.25m,Hebei China Fortune
+33,Zhunyi Gao Defensive Midfield,"Aug 21, 1995",21,£170k,Hebei China Fortune
+30,Hang Li Defensive Midfield,"Sep 9, 1989",27,£149k,Hebei China Fortune
+3,Yuhao Zhao Defensive Midfield,"Apr 7, 1993",23,£106k,Hebei China Fortune
+6,Senwen Luo Central Midfield,"Jan 16, 1993",24,£128k,Hebei China Fortune
+8,Xiaochen Jia Central Midfield,"Jan 19, 1989",28,£43k,Hebei China Fortune
+15,Hongbo Yin Right Midfield,"Oct 30, 1989",27,£191k,Hebei China Fortune
+29,Lifeng Zhang Right Midfield,"Jan 23, 1989",28,£64k,Hebei China Fortune
+26,Wenjun Jiang Right Midfield,"Jan 30, 1990",27,£43k,Hebei China Fortune
+17,Haiwei Zhu Left Midfield,"Oct 9, 1991",25,£64k,Hebei China Fortune
+10,Hernanes Attacking Midfield,"May 29, 1985",31,£4.25m,Hebei China Fortune
+31,Tianyuan Xu Striker,"May 8, 1997",19,£43k,Hebei China Fortune
+22,Ezequiel Lavezzi Left Wing,"May 3, 1985",31,£3.83m,Hebei China Fortune
+7,Ning Jiang Left Wing,"Sep 1, 1986",30,£383k,Hebei China Fortune
+28,Chengdong Zhang Right Wing,"Feb 9, 1989",28,£425k,Hebei China Fortune
+20,Yang Wang Right Wing,"Jul 26, 1989",27,£43k,Hebei China Fortune
+21,Aloísio Centre-Forward,"Jun 19, 1988",28,£2.13m,Hebei China Fortune
+9,Xuesheng Dong Centre-Forward,"May 22, 1989",27,£170k,Hebei China Fortune
+11,Hong Gui Centre-Forward,"Jan 18, 1995",22,£64k,Hebei China Fortune
+23,Yake Wu Keeper,"Feb 3, 1991",26,£85k,Changchun Yatai
+13,Fan Yi Keeper,"Mar 8, 1992",25,£43k,Changchun Yatai
+1,Yu Liu Keeper,"Feb 21, 1995",22,£21k,Changchun Yatai
+26,Yiteng Zuo Defence,"Apr 4, 1995",21,£43k,Changchun Yatai
+5,Anzur Ismailov Centre-Back,"Apr 21, 1985",31,£425k,Changchun Yatai
+15,Jie Sun Centre-Back,"Feb 9, 1991",26,£128k,Changchun Yatai
+2,Yaki Yen Centre-Back,"Apr 21, 1989",27,£64k,Changchun Yatai
+4,Rui Yu Centre-Back,"Aug 11, 1992",24,£43k,Changchun Yatai
+17,Xiaodong Fan Left-Back,"Mar 2, 1987",30,£149k,Changchun Yatai
+3,Shipeng Yan Left-Back,"Sep 8, 1987",29,£43k,Changchun Yatai
+18,Liang Guo Left-Back,"Mar 20, 1985",31,£43k,Changchun Yatai
+33,Xiaofei Zhang Left-Back,"Jul 11, 1982",34,£43k,Changchun Yatai
+16,Zhe Jiang Right-Back,"Feb 26, 1989",28,£170k,Changchun Yatai
+14,Jonathan Jack Sealy Right-Back,"May 4, 1987",29,£43k,Changchun Yatai
+22,Shang Li Right-Back,"Jun 20, 1991",25,£21k,Changchun Yatai
+37,Dadi Zhou Midfield,"Feb 18, 1996",21,£43k,Changchun Yatai
+6,Shuai Pei Defensive Midfield,"Jan 14, 1993",24,£213k,Changchun Yatai
+32,Guang Li Defensive Midfield,"Jun 20, 1991",25,£85k,Changchun Yatai
+24,Feng Yan Defensive Midfield,"Feb 7, 1982",35,£43k,Changchun Yatai
+27,Li Zhang Defensive Midfield,"Aug 6, 1989",27,£43k,Changchun Yatai
+10,Szabolcs Huszti  Central Midfield,"Apr 18, 1983",33,£850k,Changchun Yatai
+21,Chao He Left Midfield,"Apr 19, 1995",21,£85k,Changchun Yatai
+8,Zhenyu Du Left Midfield,"Feb 10, 1983",34,£64k,Changchun Yatai
+19,Ziheng Cao Striker,"Mar 6, 1995",22,£43k,Changchun Yatai
+28,Hao Guan Striker,"Jun 28, 1995",21,£21k,Changchun Yatai
+7,Marinho Right Wing,"May 29, 1990",26,£1.49m,Changchun Yatai
+11,Jinliang Wang Right Wing,"Aug 28, 1993",23,£43k,Changchun Yatai
+9,Odion Ighalo Centre-Forward,"Jun 16, 1989",27,£8.50m,Changchun Yatai
+35,Bruno Meneghel Centre-Forward,"Jun 3, 1987",29,£638k,Changchun Yatai
+20,Deming Han Centre-Forward,"Jul 22, 1986",30,£43k,Changchun Yatai
+29,Long Tan Centre-Forward,"Apr 1, 1988",28,£43k,Changchun Yatai
+31,Changcheng Cheng Centre-Forward,"Mar 27, 1991",25,£43k,Changchun Yatai
+1,Yuelei Cheng Keeper,"Oct 28, 1987",29,£128k,Guangzhou R&F
+25,Feng Han Keeper,"Dec 5, 1983",33,£64k,Guangzhou R&F
+16,Chensong Pei Keeper,"Jul 30, 1993",23,£21k,Guangzhou R&F
+31,Zhanhao Liang Defence,"May 22, 1997",19,£21k,Guangzhou R&F
+33,Yongfeng Liang Defence,"Jun 27, 1997",19,£21k,Guangzhou R&F
+40,Weiming Chen Defence,"Apr 9, 1997",19,£21k,Guangzhou R&F
+22,Hyun-Soo Jang Centre-Back,"Sep 28, 1991",25,£723k,Guangzhou R&F
+19,Jihong Jiang Centre-Back,"Feb 8, 1990",27,£106k,Guangzhou R&F
+18,Teng Yi Centre-Back,"Feb 20, 1990",27,£85k,Guangzhou R&F
+36,Zhengyu Huang Centre-Back,"Jan 24, 1997",20,£85k,Guangzhou R&F
+11,Zhipeng Jiang Left-Back,"Mar 6, 1989",28,£553k,Guangzhou R&F
+17,Chenlong Zhang Left-Back,"Apr 27, 1993",23,£21k,Guangzhou R&F
+20,Miao Tang Right-Back,"Oct 16, 1990",26,£149k,Guangzhou R&F
+26,Junliang Ma Midfield,"Mar 2, 1998",19,£21k,Guangzhou R&F
+27,Fuhai Chen Midfield,"Feb 9, 1997",20,£21k,Guangzhou R&F
+34,Xinhui Wang Midfield,"Jan 2, 1993",24,£21k,Guangzhou R&F
+37,Yuyang Li Midfield,"Sep 24, 1997",19,£21k,Guangzhou R&F
+38,Jiajie Zhang Midfield,"Feb 27, 1997",20,£21k,Guangzhou R&F
+39,Keda Zhao Midfield,"Jan 16, 1999",18,£21k,Guangzhou R&F
+8,Júnior Urso Defensive Midfield,"Mar 10, 1989",28,£2.76m,Guangzhou R&F
+4,Gong Zhang Defensive Midfield,"Apr 10, 1992",24,£85k,Guangzhou R&F
+35,Tixiang Li Central Midfield,"Sep 1, 1989",27,£64k,Guangzhou R&F
+28,Jia'nan Wang Right Midfield,"May 31, 1993",23,£43k,Guangzhou R&F
+7,Eran Zahavi Attacking Midfield,"Jul 25, 1987",29,£5.53m,Guangzhou R&F
+13,Chugui Ye Attacking Midfield,"Sep 8, 1994",22,£64k,Guangzhou R&F
+10,Renatinho Left Wing,"Oct 4, 1988",28,£1.02m,Guangzhou R&F
+32,Zhizhao Chen Left Wing,"Mar 14, 1988",28,£170k,Guangzhou R&F
+23,Lin Lu Left Wing,"Feb 3, 1985",32,£128k,Guangzhou R&F
+9,Apostolos Giannou Centre-Forward,"Jan 25, 1990",27,£680k,Guangzhou R&F
+29,Zhi Xiao Centre-Forward,"May 28, 1985",31,£106k,Guangzhou R&F
+14,Chao Zeng Centre-Forward,"Jan 23, 1993",24,£64k,Guangzhou R&F
+3,Baixu Xiang Centre-Forward,"Aug 9, 1995",21,£43k,Guangzhou R&F
+1,Boyang Su Keeper,"Jan 20, 1989",28,£85k,Guizhou Hengfeng Zhicheng
+16,Zhuo Wang Keeper,"Jan 16, 1990",27,£43k,Guizhou Hengfeng Zhicheng
+36,Lei Li Keeper,"Mar 23, 1993",23,£21k,Guizhou Hengfeng Zhicheng
+38,Hui Zhao Defence,"Mar 10, 1993",24,£21k,Guizhou Hengfeng Zhicheng
+27,Ryan McGowan Centre-Back,"Aug 15, 1989",27,£340k,Guizhou Hengfeng Zhicheng
+5,Longchang Lin Centre-Back,"Feb 24, 1990",27,£85k,Guizhou Hengfeng Zhicheng
+23,Pengfei Han Centre-Back,"Apr 28, 1993",23,£64k,Guizhou Hengfeng Zhicheng
+3,Festus Baise Centre-Back,"Apr 11, 1980",36,£43k,Guizhou Hengfeng Zhicheng
+4,Ting Yang Centre-Back,"Jun 4, 1993",23,£43k,Guizhou Hengfeng Zhicheng
+2,Xin Tang Left-Back,"Oct 16, 1990",26,£85k,Guizhou Hengfeng Zhicheng
+25,Zhi Zhang Left-Back,"Feb 18, 1989",28,£43k,Guizhou Hengfeng Zhicheng
+21,Liang Jiang  Right-Back,"Oct 1, 1989",27,£149k,Guizhou Hengfeng Zhicheng
+29,Hao Liu Right-Back,"Jan 15, 1996",21,£43k,Guizhou Hengfeng Zhicheng
+30,Shiao Leng Midfield,"May 9, 1996",20,£21k,Guizhou Hengfeng Zhicheng
+8,Ali Ghazal Defensive Midfield,"Feb 1, 1992",25,£1.70m,Guizhou Hengfeng Zhicheng
+24,Jun Wang Central Midfield,"Sep 1, 1990",26,£85k,Guizhou Hengfeng Zhicheng
+15,Mengqi Zhang Central Midfield,"Oct 10, 1989",27,£64k,Guizhou Hengfeng Zhicheng
+20,Yanfeng Liang Central Midfield,"Apr 18, 1987",29,£43k,Guizhou Hengfeng Zhicheng
+19,Feiya Chang Right Midfield,"Feb 3, 1993",24,£106k,Guizhou Hengfeng Zhicheng
+6,Yunlong Fan Left Midfield,"Mar 15, 1989",27,£64k,Guizhou Hengfeng Zhicheng
+7,Fan Wang Left Midfield,"Mar 8, 1987",30,£64k,Guizhou Hengfeng Zhicheng
+28,Yingjian Li Left Midfield,"Feb 22, 1991",26,£43k,Guizhou Hengfeng Zhicheng
+10,Tjaronn Chery Attacking Midfield,"Jun 4, 1988",28,£2.98m,Guizhou Hengfeng Zhicheng
+18,Junlin Min Attacking Midfield,"Jan 19, 1994",23,£43k,Guizhou Hengfeng Zhicheng
+31,Au Chung Attacking Midfield,"Jul 11, 1989",27,£43k,Guizhou Hengfeng Zhicheng
+32,Anwar Memet-Ali Striker,"Sep 10, 1997",19,£21k,Guizhou Hengfeng Zhicheng
+39,Zewen Chen Striker,"Jan 11, 1993",24,£21k,Guizhou Hengfeng Zhicheng
+11,Nikica Jelavic Centre-Forward,"Aug 27, 1985",31,£1.19m,Guizhou Hengfeng Zhicheng
+9,Michael Olunga Centre-Forward,"Mar 26, 1994",22,£553k,Guizhou Hengfeng Zhicheng
+17,Iminjan Ilhamjan Centre-Forward,"Jun 30, 1986",30,£85k,Guizhou Hengfeng Zhicheng
+34,Zhiquan Pang Centre-Forward,"Aug 16, 1990",26,£64k,Guizhou Hengfeng Zhicheng
+22,Xueming Liang Centre-Forward,"Aug 2, 1995",21,£43k,Guizhou Hengfeng Zhicheng
+1,Xiaofei Deng Keeper,"May 31, 1983",33,£149k,Chongqing Dangdai Lifan
+17,Weijie Sui Keeper,"Apr 6, 1983",33,£43k,Chongqing Dangdai Lifan
+12,Min Wang Keeper,"Jan 12, 1995",22,£21k,Chongqing Dangdai Lifan
+31,Anqi Chen Keeper,"Jun 4, 1993",23,£21k,Chongqing Dangdai Lifan
+2,Fang Li Defence,"Jan 27, 1993",24,£43k,Chongqing Dangdai Lifan
+3,Zhengyang Fang Defence,"Oct 10, 1993",23,£21k,Chongqing Dangdai Lifan
+6,Shuai Zeng Defence,"Mar 7, 1994",23,£21k,Chongqing Dangdai Lifan
+15,Goran Milovic Centre-Back,"Jan 29, 1989",28,£680k,Chongqing Dangdai Lifan
+19,Huan Liu Centre-Back,"Feb 14, 1989",28,£64k,Chongqing Dangdai Lifan
+21,Donglu Sui Centre-Back,"Jun 21, 1983",33,£43k,Chongqing Dangdai Lifan
+26,Mincheng Yuan Centre-Back,"Aug 8, 1995",21,£21k,Chongqing Dangdai Lifan
+9,Yu Liu Left-Back,"May 12, 1985",31,£85k,Chongqing Dangdai Lifan
+23,Lei Chen Left-Back,"Oct 16, 1985",31,£64k,Chongqing Dangdai Lifan
+8,Jie Ding Right-Back,"Apr 29, 1987",29,£128k,Chongqing Dangdai Lifan
+4,Tao Zheng Right-Back,"Aug 20, 1985",31,£106k,Chongqing Dangdai Lifan
+16,Weicheng Wang Midfield,"Sep 2, 1991",25,£64k,Chongqing Dangdai Lifan
+28,Daogang Yao Midfield,"Sep 1, 1997",19,£43k,Chongqing Dangdai Lifan
+33,Song Nan Midfield,"Jun 21, 1997",19,£43k,Chongqing Dangdai Lifan
+5,Woo-Young Jung Defensive Midfield,"Dec 14, 1989",27,£553k,Chongqing Dangdai Lifan
+22,Yongzhe Cui Central Midfield,"Jan 8, 1987",30,£43k,Chongqing Dangdai Lifan
+7,Jing Feng Right Midfield,"Aug 14, 1993",23,£64k,Chongqing Dangdai Lifan
+18,Yang Xu Left Midfield,"Jun 18, 1987",29,£106k,Chongqing Dangdai Lifan
+24,Weidong Liu Left Midfield,"Jan 29, 1987",30,£64k,Chongqing Dangdai Lifan
+10,Xinli Peng Attacking Midfield,"Jul 22, 1991",25,£85k,Chongqing Dangdai Lifan
+32,Fernandinho Left Wing,"Mar 16, 1993",23,£680k,Chongqing Dangdai Lifan
+11,Qing Wu Right Wing,"Jul 4, 1981",35,£43k,Chongqing Dangdai Lifan
+29,Ke Yang Right Wing,"Apr 19, 1989",27,£21k,Chongqing Dangdai Lifan
+36,Xu Xu Secondary Striker,"Jan 13, 1998",19,£43k,Chongqing Dangdai Lifan
+27,Alan Kardec Centre-Forward,"Jan 12, 1989",28,£3.83m,Chongqing Dangdai Lifan
+14,Hyuri Centre-Forward,"Sep 26, 1991",25,£850k,Chongqing Dangdai Lifan
+17,Yan Wu Keeper,"Jan 7, 1989",28,£106k,Henan Jianye
+1,Zhixiang Wen Keeper,"Mar 17, 1993",23,£64k,Henan Jianye
+12,Guoming Wang Keeper,"Feb 2, 1990",27,£64k,Henan Jianye
+21,Qi Jin Defence,"Jul 26, 1997",19,£21k,Henan Jianye
+31,Shuo Xie Defence,"Dec 21, 1999",17,£21k,Henan Jianye
+4,Eddi Gomes Centre-Back,"Nov 17, 1988",28,£638k,Henan Jianye
+5,Cao Gu Centre-Back,"May 31, 1988",28,£106k,Henan Jianye
+3,Ahmad Al Salih Centre-Back,"May 20, 1990",26,£85k,Henan Jianye
+26,Heng Luo Centre-Back,"Jan 16, 1993",24,£21k,Henan Jianye
+11,Zhao Ke Left-Back,"Mar 25, 1989",27,£106k,Henan Jianye
+13,Abduwal Ablet Left-Back,"Feb 3, 1989",28,£85k,Henan Jianye
+27,Yao Lu Left-Back,"Jun 26, 1993",23,£85k,Henan Jianye
+19,Ke Zhang Right-Back,"Mar 20, 1985",31,£21k,Henan Jianye
+23,Fei Wang Midfield,"Jan 8, 1993",24,£64k,Henan Jianye
+15,Ziru Zhang Midfield,"Feb 10, 1997",20,£21k,Henan Jianye
+28,Ye Yuan Midfield,"Sep 22, 1993",23,£21k,Henan Jianye
+6,Zhuoyi Feng Defensive Midfield,"Jun 18, 1989",27,£128k,Henan Jianye
+16,Kuo Yang Defensive Midfield,"Jan 8, 1993",24,£85k,Henan Jianye
+22,Wei Long Defensive Midfield,"Jan 22, 1995",22,£64k,Henan Jianye
+14,Gang Feng Central Midfield,"Mar 6, 1993",24,£149k,Henan Jianye
+2,Cheng Long Central Midfield,"Mar 22, 1995",21,£64k,Henan Jianye
+30,Jinbao Zhong Right Midfield,"Nov 25, 1994",22,£64k,Henan Jianye
+24,Heng Liu Left Midfield,"Jan 6, 1996",21,£21k,Henan Jianye
+8,Borek Dockal Attacking Midfield,"Sep 30, 1988",28,£2.55m,Henan Jianye
+7,Jinghang Hu Striker,"Mar 23, 1997",19,£43k,Henan Jianye
+29,Changjie Du Striker,"Dec 20, 1997",19,£21k,Henan Jianye
+32,Hao Yan Striker,"Jan 9, 1999",18,£21k,Henan Jianye
+10,Christian Bassogog Centre-Forward,"Oct 18, 1995",21,£1.02m,Henan Jianye
+9,Javier Patiño Centre-Forward,"Feb 14, 1988",29,£723k,Henan Jianye
+25,Hao Chen Centre-Forward,"Jan 28, 1993",24,£85k,Henan Jianye
+39,Zijie Chen Centre-Forward,"Dec 24, 1989",27,£43k,Henan Jianye
+18,Changpeng Yang Centre-Forward,"Feb 13, 1989",28,£21k,Henan Jianye
+28,Xiaotian Shi  Keeper,"Mar 6, 1990",27,£106k,Liaoning FC
+22,Zhenqiang Zhang Keeper,"Jan 28, 1993",24,£43k,Liaoning FC
+16,Qianyu Mu Keeper,"Jun 16, 1994",22,£21k,Liaoning FC
+21,Assani Lukimya Centre-Back,"Jan 25, 1986",31,£638k,Liaoning FC
+5,Zheng Lang Centre-Back,"Jul 22, 1986",30,£106k,Liaoning FC
+3,Gaojun Wu Centre-Back,"Mar 6, 1985",32,£43k,Liaoning FC
+25,Qiang Lu Centre-Back,"Jan 8, 1989",28,£21k,Liaoning FC
+26,Shuai Yang Centre-Back,"Mar 27, 1996",20,£21k,Liaoning FC
+34,Yinghao Jiang Centre-Back,"Sep 8, 1995",21,£21k,Liaoning FC
+17,Liang Wang Right-Back,"Jul 23, 1989",27,£85k,Liaoning FC
+31,Shangkun Liu Right-Back,"Jan 29, 1992",25,£85k,Liaoning FC
+15,Chen Song Right-Back,"Jan 3, 1990",27,£64k,Liaoning FC
+30,Wei Lü Right-Back,"Jan 18, 1989",28,£64k,Liaoning FC
+33,Zhaoliang Sun Midfield,"May 28, 1996",20,£43k,Liaoning FC
+13,Yanjun Zhang Midfield,"Feb 7, 1993",24,£21k,Liaoning FC
+20,Qiao Wang Midfield,"Feb 20, 1995",22,£21k,Liaoning FC
+35,Zhenfeng Xiong Midfield,"Nov 25, 1997",19,£21k,Liaoning FC
+24,James Holland Defensive Midfield,"May 15, 1989",27,£510k,Liaoning FC
+29,Fa Wang Defensive Midfield,"Jan 17, 1993",24,£43k,Liaoning FC
+11,Yanqiang Hu Central Midfield,"Mar 20, 1993",23,£106k,Liaoning FC
+32,Yusong Ni Central Midfield,"Jan 1, 1991",26,£64k,Liaoning FC
+10,Yifei Sang Central Midfield,"Feb 18, 1989",28,£43k,Liaoning FC
+6,Yu Yang Right Midfield,"Apr 18, 1985",31,£64k,Liaoning FC
+8,Ye Zhang Left Midfield,"Apr 26, 1987",29,£128k,Liaoning FC
+14,Chenglin Li Left Midfield,"Jan 16, 1993",24,£21k,Liaoning FC
+23,Robbie Kruse Right Wing,"Oct 5, 1988",28,£425k,Liaoning FC
+27,Jiahe Li Right Wing,"Aug 12, 1989",27,£64k,Liaoning FC
+9,Anthony Ujah Centre-Forward,"Oct 14, 1990",26,£2.55m,Liaoning FC
+18,Xu Yang Centre-Forward,"Feb 12, 1988",29,£319k,Liaoning FC
+12,James Chamanga  Centre-Forward,"Feb 2, 1980",37,£128k,Liaoning FC
+4,Hao Wang Centre-Forward,"Jan 30, 1993",24,£64k,Liaoning FC
+19,Boyuan Feng Centre-Forward,"Jan 18, 1995",22,£43k,Liaoning FC
+22,Wenyi Chi Keeper,"Feb 18, 1988",29,£191k,Yanbian Funde
+1,Guang Yin  Keeper,"Jan 17, 1984",33,£43k,Yanbian Funde
+31,Jialin Dong Keeper,"Apr 6, 1993",23,£21k,Yanbian Funde
+2,Weipeng Jiang Defence,"Jan 3, 1993",24,£43k,Yanbian Funde
+26,Richárd Guzmics Centre-Back,"Apr 16, 1987",29,£638k,Yanbian Funde
+5,Nikola Petkovic Centre-Back,"Mar 28, 1986",30,£383k,Yanbian Funde
+15,Qingsong Han Centre-Back,"Dec 5, 1987",29,£43k,Yanbian Funde
+25,Hongyu Jin Centre-Back,"Apr 23, 1989",27,£43k,Yanbian Funde
+16,Yongchun Wu Left-Back,"Mar 30, 1989",27,£128k,Yanbian Funde
+4,Wei Zhang Left-Back,"Mar 31, 1988",28,£85k,Yanbian Funde
+21,Xian Jin Left-Back,"Jul 11, 1991",25,£43k,Yanbian Funde
+12,Hongquan Jiang Right-Back,"Jan 2, 1987",30,£85k,Yanbian Funde
+3,Yinong Tian Right-Back,"Feb 18, 1991",26,£43k,Yanbian Funde
+20,Shiyuan Yang Right-Back,"Mar 11, 1994",23,£43k,Yanbian Funde
+18,Chengjun Jin Midfield,"Jan 17, 1997",20,£21k,Yanbian Funde
+24,Haojie Li Defensive Midfield,"Jul 3, 1993",23,£106k,Yanbian Funde
+23,Yuwen Pei Defensive Midfield,"Aug 4, 1985",31,£85k,Yanbian Funde
+17,Shihao Piao Defensive Midfield,"Jul 9, 1991",25,£64k,Yanbian Funde
+19,Hao Li Defensive Midfield,"Jan 29, 1992",25,£64k,Yanbian Funde
+27,Xue Wen Defensive Midfield,"Feb 5, 1993",24,£21k,Yanbian Funde
+14,Bit-Garam Yoon Central Midfield,"May 7, 1990",26,£680k,Yanbian Funde
+11,Ren Cui Left Midfield,"Jan 19, 1989",28,£64k,Yanbian Funde
+7,Guanghui Han Left Midfield,"Jan 24, 1988",29,£43k,Yanbian Funde
+8,Zhongguo Chi Attacking Midfield,"Oct 26, 1989",27,£106k,Yanbian Funde
+6,Xun Li Attacking Midfield,"Jan 2, 1992",25,£64k,Yanbian Funde
+33,Jun Sun Attacking Midfield,"Apr 29, 1993",23,£64k,Yanbian Funde
+36,Long Li Attacking Midfield,"Jan 23, 1998",19,£21k,Yanbian Funde
+13,Bo Jin Left Wing,"Jan 20, 1993",24,£85k,Yanbian Funde
+29,Exmetjan Left Wing,"Jan 17, 1993",24,£43k,Yanbian Funde
+9,Seung-Dae Kim Right Wing,"Apr 1, 1991",25,£595k,Yanbian Funde
+10,Steve Right Wing,"Nov 10, 1994",22,£510k,Yanbian Funde
+30,Changji Yin Right Wing,"Mar 17, 1995",21,£21k,Yanbian Funde

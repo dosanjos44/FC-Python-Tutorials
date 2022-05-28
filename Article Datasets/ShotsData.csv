@@ -1,0 +1,11 @@
+Player,ShotX,ShotY,EndX,EndY,Outcome,Type
+Angus King,28,33,47,45,Goal,Right Foot
+Angus King,29,25,31,27,Blocked,Right Foot
+Angus King,36,39,50,45,On Target,Right Foot
+Angus King,48,39,50,45,On Target,Right Foot
+Angus King,54,27,44,45,Off Target,Left Foot
+Angus King,27,29,45,45,Off Target,Left Foot
+Angus King,47,26,40,45,Off Target,Header
+Angus King,33,35,46,45,Off Target,Right Foot
+Angus King,20,31,22,34,Blocked,Right Foot
+Angus King,57,21,39,45,On Target,Left Foot

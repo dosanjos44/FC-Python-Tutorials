@@ -1,0 +1,574 @@
+web_name,team name,first_name,second_name,squad_number,now_cost,selected_by_percent,total_points,points_per_game,minutes,bonus
+Ospina,Arsenal,David,Ospina,13,48,0.2,0,0,0,0
+Cech,Arsenal,Petr,Cech,33,54,5.2,63,3.9,1440,4
+Martinez,Arsenal,Damian Emiliano,Martinez,26,40,0.6,0,0,0,0
+Koscielny,Arsenal,Laurent,Koscielny,6,60,1.4,48,3.7,1164,6
+Mertesacker,Arsenal,Per,Mertesacker,4,48,0.5,14,3.5,333,2
+Gabriel,Arsenal,Gabriel Armando,de Abreu,5,50,0,0,0,0,0
+Bellerín,Arsenal,Héctor,Bellerín,24,59,9.4,57,3.6,1440,4
+Gibbs,West Brom,Kieran,Gibbs,3,50,0.4,30,2.3,1096,0
+Jenkinson,Arsenal,Carl,Jenkinson,25,45,0.1,0,0,0,0
+Monreal,Arsenal,Nacho,Monreal,18,57,13,71,4.4,1440,8
+Holding,Arsenal,Rob,Holding,16,45,0.6,8,1.6,263,0
+Mustafi,Arsenal,Shkodran,Mustafi,20,54,2.7,54,6,734,5
+Kolasinac,Arsenal,Sead,Kolasinac,31,62,15.7,76,5.1,1297,6
+Sánchez,Arsenal,Alexis,Sánchez,7,118,2.8,62,4.8,974,5
+Walcott,Arsenal,Theo,Walcott,14,71,0.6,3,1,46,0
+Özil,Arsenal,Mesut,Özil,11,93,2.2,57,4.4,1010,7
+Cazorla,Arsenal,Santiago,Cazorla,19,69,0,0,0,0,0
+Ramsey,Arsenal,Aaron,Ramsey,8,72,8.6,81,5.4,1196,7
+Chamberlain,Liverpool,Alex,Oxlade-Chamberlain,21,57,1.5,33,2.1,752,2
+Coquelin,Arsenal,Francis,Coquelin,34,44,0.6,5,1,148,0
+Iwobi,Arsenal,Alex,Iwobi,17,51,0.5,23,2.9,474,1
+Elneny,Arsenal,Mohamed,Elneny,35,43,2.5,11,2.2,263,0
+Xhaka,Arsenal,Granit,Xhaka,29,53,8.5,50,3.1,1364,2
+Wilshere,Arsenal,Jack,Wilshere,10,54,0.2,7,1.4,86,0
+Giroud,Arsenal,Olivier,Giroud,12,82,1.2,33,2.5,253,4
+Welbeck,Arsenal,Danny,Welbeck,23,73,0.8,33,3.3,534,3
+Pérez,Arsenal,Lucas,Pérez,28,74,0.1,0,0,0,0
+Lacazette,Arsenal,Alexandre,Lacazette,9,103,9.6,66,4.1,1100,3
+Begovic,Bournemouth,Asmir,Begovic,27,45,4.9,61,3.8,1440,4
+Boruc,Bournemouth,Artur,Boruc,1,42,1.5,0,0,0,0
+Federici,Bournemouth,Adam,Federici,32,40,2.6,0,0,0,0
+Francis,Bournemouth,Simon,Francis,2,44,1.1,24,1.8,1072,1
+Steve Cook,Bournemouth,Steve,Cook,3,49,1.8,37,2.8,1029,4
+Daniels,Bournemouth,Charlie,Daniels,11,50,12.3,55,3.4,1440,4
+Adam Smith,Bournemouth,Adam,Smith,15,48,0.4,25,1.8,1046,0
+Mings,Bournemouth,Tyrone,Mings,26,43,0.2,0,0,135,0
+Brad Smith,Bournemouth,Bradley,Smith,14,39,2.7,0,0,0,0
+Aké,Bournemouth,Nathan,Aké,5,49,4.1,46,2.9,1432,5
+Arter,Bournemouth,Harry,Arter,8,49,0.4,23,2.3,787,0
+Pugh,Bournemouth,Marc,Pugh,7,48,0.1,18,1.8,596,0
+Surman,Bournemouth,Andrew,Surman,6,48,9.2,62,4.1,1350,7
+Stanislas,Bournemouth,Junior,Stanislas,19,59,0.1,25,3.6,535,3
+Gosling,Bournemouth,Dan,Gosling,4,48,0.1,11,1.6,367,0
+Gradel,Bournemouth,Max,Gradel,10,50,0,0,0,0,0
+Ibe,Bournemouth,Jordon,Ibe,33,49,0.4,30,2,756,0
+Lewis Cook,Bournemouth,Lewis,Cook,16,44,0.9,17,1.9,553,0
+Fraser,Bournemouth,Ryan,Fraser,24,51,0.3,21,2.6,467,3
+Callum Wilson,Bournemouth,Callum,Wilson,13,59,3.4,26,3.7,381,3
+Afobe,Bournemouth,Benik,Afobe,9,57,0.2,17,1.5,355,0
+Mousset,Bournemouth,Lys,Mousset,31,49,0.1,7,1.2,107,0
+King,Bournemouth,Joshua,King,17,70,1.5,40,2.9,1243,2
+Defoe,Bournemouth,Jermain,Defoe,18,76,1.6,38,2.9,678,4
+Mäenpää,Brighton,Niki,Mäenpää,12,40,1.1,0,0,0,0
+Ryan,Brighton,Mathew,Ryan,1,45,1,57,3.6,1440,4
+Dunk,Brighton,Lewis,Dunk,5,44,2.6,35,2.2,1440,0
+Duffy,Brighton,Shane,Duffy,22,46,3.2,52,3.3,1422,5
+Hünemeier,Brighton,Uwe,Hünemeier,4,39,6.9,1,1,17,0
+Bruno,Brighton,Bruno,Saltor Grau,2,45,0.7,44,2.9,1262,4
+Bong,Brighton,Gaëtan,Bong,3,44,0.1,17,2.4,630,0
+Rosenior,Brighton,Liam,Rosenior,23,39,3.9,3,1,163,0
+Goldson,Brighton,Connor,Goldson,18,39,1,0,0,0,0
+Knockaert,Brighton,Anthony,Knockaert,11,57,0.7,43,2.9,1066,5
+Stephens,Brighton,Dale,Stephens,6,45,1.6,40,2.5,1440,0
+Kayal,Brighton,Beram,Kayal,7,44,0.1,0,0,0,0
+Sidwell,Brighton,Steve,Sidwell,14,43,0.2,0,0,0,0
+March,Brighton,Solomon,March,20,50,0.3,35,2.2,890,0
+Skalak,Brighton,Jiri,Skalak,8,47,0,0,0,0,0
+Norwood,Brighton,Oliver,Norwood,21,45,0,0,0,0,0
+Murphy,Brighton,Jamie,Murphy,15,47,0,6,1.5,166,0
+Groß,Brighton,Pascal,Groß,13,60,20.3,80,5,1323,14
+Murray,Brighton,Glenn,Murray,17,58,3.4,46,3.3,899,6
+Hemed,Brighton,Tomer,Hemed,10,48,1.3,30,3,484,5
+Baldock,Brighton,Sam,Baldock,9,49,0,0,0,0,0
+Heaton,Burnley,Tom,Heaton,1,48,1.9,8,2,305,0
+Robinson,Burnley,Paul,Robinson,17,45,0,0,0,0,0
+Lowton,Burnley,Matthew,Lowton,2,46,3,53,4.1,1170,2
+Mee,Burnley,Ben,Mee,6,48,12.7,56,3.7,1350,6
+Ward,Burnley,Stephen,Ward,23,52,25.2,75,4.7,1430,9
+Tarkowski,Burnley,James,Tarkowski,5,46,3.3,56,3.5,1440,1
+Long,Burnley,Kevin,Long,28,39,3.1,7,7,90,1
+Taylor,Burnley,Charlie,Taylor,3,42,0.2,0,0,0,0
+Arfield,Burnley,Scott,Arfield,37,49,0.2,31,3.4,645,6
+Marney,Burnley,Dean,Marney,8,45,0,0,0,0,0
+Gudmundsson,Burnley,Johann Berg,Gudmundsson,17,50,0.3,44,2.9,1064,0
+Defour,Burnley,Steven,Defour,16,54,0.3,41,2.6,1325,0
+Hendrick,Burnley,Jeff,Hendrick,13,54,0.3,43,3.3,1012,1
+Brady,Burnley,Robbie,Brady,12,55,1,56,3.7,1277,7
+Westwood,Burnley,Ashley,Westwood,18,44,0.1,7,1,56,0
+Walters,Burnley,Jonathan,Walters,19,51,0.1,2,1,27,0
+Cork,Burnley,Jack,Cork,4,46,3.9,46,2.9,1440,3
+Vokes,Burnley,Sam,Vokes,9,58,2.3,30,3,399,6
+Gray,Watford,Andre,Gray,18,63,2.2,44,2.8,904,2
+Barnes,Burnley,Ashley,Barnes,10,52,0.5,22,1.5,550,1
+Courtois,Chelsea,Thibaut,Courtois,13,55,14.1,66,4.1,1440,2
+Eduardo,Chelsea,Eduardo,dos Reis Carvalho,37,48,0.1,0,0,0,0
+Caballero,Chelsea,Willy,Caballero,1,48,0.1,0,0,0,0
+Azpilicueta,Chelsea,César,Azpilicueta,28,69,21.9,80,5.3,1350,11
+Cahill,Chelsea,Gary,Cahill,24,62,3.4,32,2.7,864,1
+Zouma,Stoke,Kurt,Zouma,6,55,2.3,36,2.4,1350,4
+Alonso,Chelsea,Marcos,Alonso,3,69,15.3,70,4.4,1349,5
+David Luiz,Chelsea,David,Luiz Moreira Marinho,30,58,9.1,29,3.6,716,0
+Moses,Chelsea,Victor,Moses,15,64,0.9,33,3.7,610,1
+Rüdiger,Chelsea,Antonio,Rüdiger,2,58,2.1,47,4.3,924,6
+Hazard,Chelsea,Eden,Hazard,10,109,14.8,70,5.4,807,12
+Fàbregas,Chelsea,Cesc,Fàbregas,4,69,4.6,47,3.1,1136,3
+Willian,Chelsea,Willian,Borges Da Silva,22,66,5.8,40,2.5,711,1
+Matic,Man Utd,Nemanja,Matic,31,49,10.1,43,2.7,1403,0
+Loftus-Cheek,Crystal Palace,Ruben,Loftus-Cheek,8,46,8,36,3,990,0
+Pedro,Chelsea,Pedro,Rodríguez Ledesma,11,77,1.3,41,3.2,631,2
+Kenedy,Chelsea,Robert Kenedy,Nunes do Nascimento,16,47,0,0,0,0,0
+Kanté,Chelsea,N'Golo,Kanté,7,49,12.3,45,3.5,1156,6
+Chalobah,Watford,Nathaniel,Chalobah,14,43,0.9,12,2.4,429,0
+Batshuayi,Chelsea,Michy,Batshuayi,23,81,0.6,16,2.3,194,3
+Costa,Chelsea,Diego,Da Silva Costa,19,95,0.4,0,0,0,0
+Hennessey,Crystal Palace,Wayne,Hennessey,13,43,1,30,3.3,810,5
+Speroni,Crystal Palace,Julian,Speroni,1,41,4.9,23,3.3,630,3
+Tomkins,Crystal Palace,James,Tomkins,5,43,0.4,12,1.7,502,0
+Dann,Crystal Palace,Scott,Dann,6,47,0.5,21,1.8,1055,0
+Ward,Crystal Palace,Joel,Ward,2,48,0.3,27,1.9,1214,0
+Kelly,Crystal Palace,Martin,Kelly,34,42,0.2,6,3,139,0
+Delaney,Crystal Palace,Damien,Delaney,27,42,0.2,0,0,90,0
+Souaré,Crystal Palace,Pape,Souaré,23,45,0,0,0,0,0
+Schlupp,Crystal Palace,Jeffrey,Schlupp,15,47,0.3,27,1.9,1137,0
+van Aanholt,Crystal Palace,Patrick,van Aanholt,3,51,0.8,7,0.9,588,0
+Puncheon,Crystal Palace,Jason,Puncheon,42,45,0.4,11,1.2,554,0
+Zaha,Crystal Palace,Wilfried,Zaha,11,69,5.1,40,4,886,0
+McArthur,Crystal Palace,James,McArthur,18,43,2.4,24,2,706,1
+Lee Chung-yong,Crystal Palace,Chung-yong,Lee,14,43,0.4,3,1.5,109,0
+Cabaye,Crystal Palace,Yohan,Cabaye,7,54,0.3,34,2.6,1016,3
+Sako,Crystal Palace,Bakary,Sako,26,49,0.1,9,1.1,164,0
+Townsend,Crystal Palace,Andros,Townsend,10,57,0.9,40,2.5,1378,2
+Milivojevic,Crystal Palace,Luka,Milivojevic,4,46,0.5,40,2.7,1189,4
+Wickham,Crystal Palace,Connor,Wickham,21,54,0,0,0,0,0
+Benteke,Crystal Palace,Christian,Benteke,17,76,2.1,14,1.3,851,0
+Pickford,Everton,Jordan,Pickford,1,48,6.2,53,3.3,1440,4
+Robles,Everton,Joel,Robles,33,43,0.2,0,0,0,0
+Stekelenburg,Everton,Maarten,Stekelenburg,22,43,0.4,0,0,0,0
+Baines,Everton,Leighton,Baines,3,57,3.8,36,2.8,1099,2
+Coleman,Everton,Seamus,Coleman,23,64,0.2,0,0,0,0
+Jagielka,Everton,Phil,Jagielka,6,47,2.7,16,1.5,899,1
+Pennington,Everton,Matthew,Pennington,38,40,0.1,0,0,0,0
+Funes Mori,Everton,Ramiro,Funes Mori,25,49,0,0,0,0,0
+Williams,Everton,Ashley,Williams,5,52,2.3,35,2.7,1023,2
+Holgate,Everton,Mason,Holgate,30,42,1,21,3,630,0
+Kenny,Everton,Jonjoe,Kenny,43,43,1.4,22,2.4,734,2
+Keane,Everton,Michael,Keane,4,53,5.1,19,1.6,984,2
+Bolasie,Everton,Yannick,Bolasie,7,64,0.1,0,0,0,0
+Mirallas,Everton,Kevin,Mirallas,11,61,0.9,5,1,135,0
+Barkley,Everton,Ross,Barkley,8,74,0.1,0,0,0,0
+McCarthy,Everton,James,McCarthy,16,49,0,0,0,0,0
+Barry,West Brom,Gareth,Barry,18,45,1.1,32,2.3,1125,0
+Besic,Everton,Muhamed,Besic,21,43,0.2,2,1,46,0
+Lennon,Everton,Aaron,Lennon,12,54,0.1,17,2.1,425,0
+Schneiderlin,Everton,Morgan,Schneiderlin,2,47,0.5,15,1.4,803,0
+Gueye,Everton,Idrissa,Gueye,17,48,0.9,29,1.8,1369,0
+Davies,Everton,Tom,Davies,26,52,0.4,24,1.6,772,0
+Lookman,Everton,Ademola,Lookman,31,51,0.1,9,1.5,142,0
+Klaassen,Everton,Davy,Klaassen,20,70,0.3,4,1,187,0
+Calvert-Lewin,Everton,Dominic,Calvert-Lewin,29,53,8.4,55,3.4,1128,3
+Sandro,Everton,Sandro,Ramírez,9,71,0.4,8,1.3,229,0
+Rooney,Everton,Wayne,Rooney,10,74,12.4,70,5,1068,14
+Coleman,Huddersfield,Joel,Coleman,13,40,1.4,0,0,0,0
+Lössl,Huddersfield,Jonas,Lössl,1,46,9.2,65,4.1,1440,5
+Schindler,Huddersfield,Christopher,Schindler,26,46,3,49,3.3,1316,9
+Löwe,Huddersfield,Chris,Löwe,15,45,2.9,44,3.1,967,0
+Smith,Huddersfield,Tommy,Smith,2,48,0.3,32,2.5,1114,2
+Hefele,Huddersfield,Michael,Hefele,44,42,0.1,1,1,1,0
+Cranie,Huddersfield,Martin,Cranie,14,40,0.4,2,0.7,179,0
+Stankovic,Huddersfield,Jon Gorenc,Stankovic,27,40,0.1,0,0,0,0
+Hudson,Huddersfield,Mark,Hudson,5,40,0.1,0,0,0,0
+Zanka,Huddersfield,Mathias,Jorgensen,25,45,6.8,53,3.3,1440,4
+Mooy,Huddersfield,Aaron,Mooy,10,54,5.8,51,3.2,1348,3
+van La Parra,Huddersfield,Rajiv,van La Parra,17,48,0.1,22,1.7,750,0
+Hogg,Huddersfield,Jonathan,Hogg,6,44,0.4,19,1.9,735,0
+Billing,Huddersfield,Philip,Billing,8,45,0.3,12,1.7,420,0
+Lolley,Huddersfield,Joe,Lolley,18,44,0.1,1,1,3,0
+Payne,Huddersfield,Jack,Payne,16,45,0,0,0,0,0
+Whitehead,Huddersfield,Dean,Whitehead,4,43,0.1,2,1,20,0
+Bunn,Huddersfield,Harry,Bunn,11,45,0,0,0,0,0
+Scannell,Huddersfield,Sean,Scannell,7,45,0,0,0,0,0
+Kachunga,Huddersfield,Elias,Kachunga,9,58,0.2,36,2.4,1145,0
+Ince,Huddersfield,Tom,Ince,22,56,0.5,39,2.6,1337,0
+Palmer,Huddersfield,Kasey,Palmer,45,53,0,4,1,168,0
+Williams,Huddersfield,Danny,Williams,19,49,0,15,1.3,610,0
+Wells,Burnley,Nahki,Wells,21,49,0,0,0,0,0
+Quaner,Huddersfield,Collin,Quaner,23,45,4.8,13,1.4,320,0
+Depoitre,Huddersfield,Laurent,Depoitre,20,52,0.5,37,2.8,907,6
+Mounie,Huddersfield,Steve,Mounie,24,57,0.9,37,3.4,621,6
+Schmeichel,Leicester,Kasper,Schmeichel,1,50,4.4,63,3.9,1440,9
+Hamer,Leicester,Ben,Hamer,12,44,0.1,0,0,0,0
+Morgan,Leicester,Wes,Morgan,5,45,3,39,2.4,1440,1
+Fuchs,Leicester,Christian,Fuchs,28,49,2.4,37,3.1,991,6
+Simpson,Leicester,Danny,Simpson,2,45,4,40,2.5,1423,0
+Huth,Leicester,Robert,Huth,6,48,0.1,0,0,0,0
+Benalouane,Leicester,Yohan,Benalouane,29,43,0.1,0,0,0,0
+Chilwell,Leicester,Benjamin,Chilwell,3,43,0.5,20,2.5,568,0
+Wagué,Watford,Molla,Wagué,13,45,0,1,1,45,0
+Maguire,Leicester,Harry,Maguire,15,52,8.7,60,3.8,1440,6
+Mahrez,Leicester,Riyad,Mahrez,26,85,5.8,84,5.3,1270,8
+Albrighton,Leicester,Marc,Albrighton,11,55,1.9,49,3.1,1121,6
+King,Leicester,Andy,King,10,43,3.1,14,1.8,347,1
+Drinkwater,Chelsea,Daniel,Drinkwater,6,48,0.2,8,1.3,217,0
+Gray,Leicester,Demarai,Gray,7,53,1.4,43,2.9,746,2
+Amartey,Leicester,Daniel,Amartey,18,43,0.2,1,1,18,0
+Mendy,Leicester,Nampalys,Mendy,24,45,0,0,0,0,0
+Ndidi,Leicester,Wilfred,Ndidi,25,49,0.5,45,2.8,1440,2
+Musa,Leicester,Ahmed,Musa,13,62,0.4,0,0,0,0
+Iborra,Leicester,Vicente,Iborra,21,58,0.1,28,2.8,822,2
+Vardy,Leicester,Jamie,Vardy,9,86,16.5,71,4.4,1411,11
+Ulloa,Leicester,Leonardo,Ulloa,23,48,0.2,1,1,1,0
+Okazaki,Leicester,Shinji,Okazaki,20,54,3.8,41,3.2,614,4
+Slimani,Leicester,Islam,Slimani,19,67,0.3,12,1.3,117,0
+Mignolet,Liverpool,Simon,Mignolet,22,49,1.7,50,3.3,1350,0
+Karius,Liverpool,Loris,Karius,1,48,0.2,6,6,90,0
+Lovren,Liverpool,Dejan,Lovren,6,53,0.8,31,2.6,845,1
+Moreno,Liverpool,Alberto,Moreno,18,46,3.8,44,3.7,1080,3
+Clyne,Liverpool,Nathaniel,Clyne,2,53,0.2,0,0,0,0
+Gomez,Liverpool,Joseph,Gomez,12,47,5.7,50,4.2,991,6
+Matip,Liverpool,Joel,Matip,32,54,2.1,48,3.7,1170,3
+Klavan,Liverpool,Ragnar,Klavan,17,43,1.1,27,3.4,720,1
+Sakho,Crystal Palace,Mamadou,Sakho,12,50,1.7,40,4,834,10
+Milner,Liverpool,James,Milner,7,61,2.4,32,2.3,738,3
+Alexander-Arnold,Liverpool,Trent,Alexander-Arnold,66,42,1.1,10,2,450,1
+Lucas,Liverpool,Leiva,Lucas,21,45,0,0,0,0,0
+Henderson,Liverpool,Jordan,Henderson,14,55,1.6,42,3,1170,3
+Coutinho,Liverpool,Philippe,Coutinho,10,90,11.1,64,7.1,672,10
+Can,Liverpool,Emre,Can,23,48,4.5,36,3,905,1
+Lallana,Liverpool,Adam,Lallana,20,73,0.3,1,1,1,0
+Sheyi Ojo,Liverpool,Oluwaseyi,Ojo,54,50,0,0,0,0,0
+Mané,Liverpool,Sadio,Mané,19,94,8,51,5.1,690,5
+Grujic,Liverpool,Marko,Grujic,16,43,0.6,3,1,14,0
+Wijnaldum,Liverpool,Georginio,Wijnaldum,5,67,2.3,37,2.8,1051,0
+Woodburn,Liverpool,Ben,Woodburn,58,43,0.3,0,0,0,0
+Salah,Liverpool,Mohamed,Salah,11,99,56,124,7.8,1186,15
+Firmino,Liverpool,Roberto,Firmino,9,85,21.8,68,4.5,1074,11
+Sturridge,Liverpool,Daniel,Sturridge,15,80,0.7,25,2.8,427,0
+Ings,Liverpool,Danny,Ings,28,54,0.1,1,1,8,0
+Origi,Liverpool,Divock,Origi,27,74,0.2,1,1,9,0
+Solanke,Liverpool,Dominic,Solanke,29,47,1.7,15,1.5,234,0
+Ederson,Man City,Ederson,Santana de Moraes,31,55,5,58,3.6,1395,2
+Bravo,Man City,Claudio,Bravo,1,46,0.5,1,1,44,0
+Stones,Man City,John,Stones,5,55,3.8,46,3.8,884,2
+Kolarov,Man City,Aleksandar,Kolarov,11,55,0,0,0,0,0
+Kompany,Man City,Vincent,Kompany,4,58,2.1,17,2.4,574,0
+Otamendi,Man City,Nicolás,Otamendi,30,60,20.7,80,5.3,1330,11
+Delph,Man City,Fabian,Delph,18,45,0.9,32,2.9,920,0
+Sterling,Man City,Raheem,Sterling,7,83,19.5,91,6.5,1026,9
+David Silva,Man City,David,Silva,21,81,15.5,86,5.4,1336,12
+Yaya Touré,Man City,Gnegneri Yaya,Touré,42,61,0.8,2,1,29,0
+Fernandinho,Man City,Fernando,Luiz Rosa,25,52,7,56,3.5,1324,3
+Fernando,Man City,Fernando Francisco,Reges,6,45,0,0,0,0,0
+De Bruyne,Man City,Kevin,De Bruyne,17,102,21.9,93,5.8,1377,11
+Gündogan,Man City,Ilkay,Gündogan,8,53,0.2,11,1.1,213,0
+Nolito,Man City,Manuel,Agudo Durán,9,70,0,0,0,0,0
+Sané,Man City,Leroy,Sané,19,87,18.9,85,5.7,1029,10
+Bernardo Silva,Man City,Bernardo Mota,Veiga de Carvalho e Silva,20,74,0.6,26,1.9,360,0
+Agüero,Man City,Sergio,Agüero,10,116,16.7,79,7.2,861,13
+Iheanacho,Leicester,Kelechi,Iheanacho,8,65,0.6,10,1.1,254,0
+Jesus,Man City,Gabriel Fernando,de Jesus,33,103,12.3,75,5,874,11
+de Gea,Man Utd,David,de Gea,1,58,42.6,85,5.3,1440,7
+Romero,Man Utd,Sergio,Romero,20,48,0.1,0,0,0,0
+Joel Pereira,Man Utd,Joel Dinis,Castro Pereira,40,39,3.8,0,0,0,0
+Smalling,Man Utd,Chris,Smalling,12,54,4.1,40,3.6,915,2
+Jones,Man Utd,Phil,Jones,4,53,6.4,59,5.4,893,8
+Shaw,Man Utd,Luke,Shaw,23,49,0.1,0,0,0,0
+Rojo,Man Utd,Marcos,Rojo,5,54,0.2,1,0.3,225,0
+Valencia,Man Utd,Antonio,Valencia,25,68,16.5,81,5.1,1440,8
+Darmian,Man Utd,Matteo,Darmian,36,50,0.2,9,2.3,195,0
+Fosu-Mensah,Crystal Palace,Timothy,Fosu-Mensah,24,44,0.9,13,1.3,791,0
+Blind,Man Utd,Daley,Blind,17,52,1.1,19,4.8,271,0
+Bailly,Man Utd,Eric,Bailly,3,60,7.2,46,5.8,720,3
+Tuanzebe,Man Utd,Axel,Tuanzebe,38,39,1.7,0,0,0,0
+Lindelöf,Man Utd,Victor,Lindelöf,2,49,1.3,15,2.1,473,1
+Mata,Man Utd,Juan,Mata,8,68,1.9,36,3.3,642,2
+Fellaini,Man Utd,Marouane,Fellaini,27,48,0.8,32,3.6,373,3
+Carrick,Man Utd,Michael,Carrick,16,43,1,0,0,0,0
+Young,Man Utd,Ashley,Young,18,51,5.6,51,4.3,1067,6
+Herrera,Man Utd,Ander,Herrera,21,51,1.3,20,1.5,637,0
+Lingard,Man Utd,Jesse,Lingard,14,59,1.9,45,3.8,466,5
+Martial,Man Utd,Anthony,Martial,11,80,3.5,65,4.3,661,1
+Mkhitaryan,Man Utd,Henrikh,Mkhitaryan,22,77,7.4,53,4.4,804,4
+Pogba,Man Utd,Paul,Pogba,6,79,10,56,7,682,4
+McTominay,Man Utd,Scott,McTominay,39,43,0.5,0,0,0,0
+Rashford,Man Utd,Marcus,Rashford,19,76,8.1,60,3.8,982,6
+Lukaku,Man Utd,Romelu,Lukaku,9,113,32.2,81,5.1,1440,8
+Elliot,Newcastle,Robert,Elliot,1,41,24.4,42,3.2,1170,2
+Darlow,Newcastle,Karl,Darlow,26,44,0.2,6,2,270,0
+Yedlin,Newcastle,DeAndre,Yedlin,22,44,0.7,23,1.9,995,2
+Clark,Newcastle,Ciaran,Clark,2,45,2,40,3.1,1115,4
+Lascelles,Newcastle,Jamaal,Lascelles,6,46,5.9,44,4,947,4
+Dummett,Newcastle,Paul,Dummett,3,42,0.1,1,1,7,0
+Hanley,Newcastle,Grant,Hanley,5,40,0.5,0,0,0,0
+Gámez,Newcastle,Jesús,Gámez Duarte,27,40,2.7,9,4.5,97,2
+Lejeune,Newcastle,Florian,Lejeune,20,44,0.2,13,1.3,843,0
+Ritchie,Newcastle,Matt,Ritchie,11,57,3,59,3.7,1373,6
+Shelvey,Newcastle,Jonjo,Shelvey,8,52,0.4,19,1.6,745,1
+Gouffran,Newcastle,Yoan,Gouffran,20,50,0,0,0,0,0
+Diamé,Newcastle,Mohamed,Diamé,10,46,0.1,13,1.3,309,0
+Colback,Newcastle,Jack,Colback,4,43,1.3,0,0,0,0
+Atsu,Newcastle,Christian,Atsu,30,49,1.3,38,3.2,939,2
+Gayle,Newcastle,Dwight,Gayle,9,61,1.1,37,2.8,645,4
+Pérez,Newcastle,Ayoze,Pérez,17,53,0.8,33,2.2,1021,2
+Mitrovic,Newcastle,Aleksandar,Mitrovic,45,48,0.9,10,1.7,89,0
+Murphy,Newcastle,Daryl,Murphy,33,45,0.5,0,0,0,0
+McCarthy,Southampton,Alex,McCarthy,13,44,0.1,0,0,0,0
+Forster,Southampton,Fraser,Forster,44,50,7.6,66,4.1,1440,6
+Bertrand,Southampton,Ryan,Bertrand,21,54,8.2,52,3.3,1435,4
+Yoshida,Southampton,Maya,Yoshida,3,48,3.2,50,4.2,994,6
+Targett,Southampton,Matt,Targett,33,43,0.1,0,0,0,0
+Cédric,Southampton,Cédric,Soares,2,48,4.2,39,2.8,1248,0
+van Dijk,Southampton,Virgil,van Dijk,17,54,2,25,2.3,903,4
+Pied,Southampton,Jérémy,Pied,26,42,0.1,2,2,90,0
+Stephens,Southampton,Jack,Stephens,5,45,0.2,16,3.2,450,1
+McQueen,Southampton,Sam,McQueen,38,43,0.1,3,1,23,0
+Bednarek,Southampton,Jan,Bednarek,35,42,0.1,0,0,0,0
+Davis,Southampton,Steven,Davis,8,51,4,56,3.7,1130,6
+Ward-Prowse,Southampton,James,Ward-Prowse,16,50,0.5,23,1.9,501,0
+Tadic,Southampton,Dusan,Tadic,11,63,1.9,52,3.5,1183,5
+Clasie,Southampton,Jordy,Clasie,4,44,0.1,0,0,0,0
+Oriol Romeu,Southampton,Oriol,Romeu Vidal,14,44,2.7,34,2.3,1304,0
+Højbjerg,Southampton,Pierre-Emile,Højbjerg,23,43,0.4,7,1.8,249,0
+Boufal,Southampton,Sofiane,Boufal,19,57,0.2,28,2.3,605,2
+Sims,Southampton,Joshua,Sims,39,44,0.1,0,0,0,0
+Redmond,Southampton,Nathan,Redmond,22,60,2.1,40,2.7,1083,2
+Long,Southampton,Shane,Long,7,56,0.3,23,1.8,670,0
+Austin,Southampton,Charlie,Austin,10,62,3.6,43,3.3,399,7
+Gabbiadini,Southampton,Manolo,Gabbiadini,20,64,1.7,37,2.6,680,4
+Butland,Stoke,Jack,Butland,1,50,2.3,35,2.7,1170,3
+Grant,Stoke,Lee,Grant,33,43,0.3,5,1.7,270,0
+Shawcross,Stoke,Ryan,Shawcross,17,48,0.9,30,2.7,990,0
+Cameron,Stoke,Geoff,Cameron,20,43,0.3,14,1.8,578,0
+Pieters,Stoke,Erik,Pieters,3,48,0.5,25,1.6,1438,0
+Muniesa,Stoke,Marc,Muniesa,5,45,0,0,0,0,0
+Bardsley,Burnley,Phil,Bardsley,26,43,0.1,8,2.7,270,0
+Johnson,Stoke,Glen,Johnson,8,41,0.3,1,0.3,149,0
+Tymon,Stoke,Josh,Tymon,12,44,0,0,0,0,0
+Allen,Stoke,Joe,Allen,4,52,1.3,38,2.5,1332,4
+Adam,Stoke,Charlie,Adam,16,47,0.1,2,1,7,0
+Whelan,Stoke,Glenn,Whelan,6,45,0,0,0,0,0
+Arnautovic,West Ham,Marko,Arnautovic,7,68,0.5,20,1.7,657,0
+Afellay,Stoke,Ibrahim,Afellay,14,49,0,4,0.8,92,0
+Shaqiri,Stoke,Xherdan,Shaqiri,22,61,9.1,71,4.7,1243,9
+Imbula,Stoke,Giannelli,Imbula,21,45,0.1,0,0,0,0
+Bojan,Stoke,Bojan,Krkic Perez,27,55,0,2,2,71,0
+Sobhi,Stoke,Ramadan,Sobhi,32,46,0.4,19,1.9,516,0
+Fletcher,Stoke,Darren,Fletcher,24,49,0.6,45,2.8,1413,3
+Crouch,Stoke,Peter,Crouch,25,48,2.8,32,2.7,393,4
+Diouf,Stoke,Mame Biram,Diouf,18,56,5.5,56,3.7,1328,5
+Berahino,Stoke,Saido,Berahino,9,56,0.3,11,1.6,246,0
+Fabianski,Swansea,Lukasz,Fabianski,1,46,8.5,69,4.3,1440,5
+Nordfeldt,Swansea,Kristoffer,Nordfeldt,13,40,1,0,0,0,0
+Naughton,Swansea,Kyle,Naughton,26,46,6.1,59,3.7,1437,8
+Rangel,Swansea,Angel,Rangel,22,39,10.9,1,1,2,0
+Fernández,Swansea,Federico,Fernández,33,45,2,37,3.1,1080,6
+Kingsley,Swansea,Stephen,Kingsley,35,45,0,0,0,0,0
+van der Hoorn,Swansea,Mike,van der Hoorn,5,44,0.2,29,3.6,639,1
+Mawson,Swansea,Alfie,Mawson,6,50,1.2,58,3.6,1440,3
+Olsson,Swansea,Martin,Olsson,16,50,0.3,52,3.7,1256,0
+Sigurdsson,Everton,Gylfi,Sigurdsson,18,80,2.4,48,3.2,1209,4
+Routledge,Swansea,Wayne,Routledge,15,52,0.1,9,1.1,217,0
+Britton,Swansea,Leon,Britton,7,44,0.1,9,2.3,269,0
+Fulton,Swansea,Jay,Fulton,56,44,0.1,0,0,16,0
+Ki Sung-yueng,Swansea,Sung-yueng,Ki,4,49,0,16,1.8,622,0
+Montero,Swansea,Jefferson,Montero,20,49,0,0,0,0,0
+Fer,Swansea,Leroy,Fer,8,53,0.2,26,1.9,996,0
+Dyer,Swansea,Nathan,Dyer,12,44,0.1,9,1.5,300,0
+Carroll,Swansea,Tom,Carroll,14,44,4.6,37,2.5,1218,2
+Barrow,Swansea,Modou,Barrow,17,50,0,0,0,0,0
+Narsingh,Swansea,Luciano,Narsingh,11,47,0,10,1.3,230,0
+Mesa,Swansea,Roque,Mesa,51,43,0.6,10,1.7,376,0
+Llorente,Spurs,Fernando,Llorente,18,74,0.1,9,0.9,135,0
+McBurnie,Swansea,Oliver,McBurnie,62,45,1.5,7,1,83,0
+Ayew,Swansea,Jordan,Ayew,18,50,3.4,40,2.5,1285,0
+Abraham,Swansea,Tammy,Abraham,10,59,10.4,57,3.8,1086,8
+Lloris,Spurs,Hugo,Lloris,1,55,8.9,50,3.3,1350,0
+Vorm,Spurs,Michel,Vorm,13,48,0.1,0,0,0,0
+Alderweireld,Spurs,Toby,Alderweireld,4,58,5.7,38,3.8,900,3
+Rose,Spurs,Danny,Rose,3,64,0.3,7,3.5,180,0
+Walker,Man City,Kyle,Walker,2,67,14.4,64,4.3,1303,4
+Vertonghen,Spurs,Jan,Vertonghen,5,61,8.3,54,3.4,1409,4
+Davies,Spurs,Ben,Davies,33,56,15.5,62,5.2,980,6
+Trippier,Spurs,Kieran,Trippier,2,56,7.8,58,4.8,993,9
+Wimmer,Stoke,Kevin,Wimmer,5,43,0.4,12,1.2,802,1
+Dier,Spurs,Eric,Dier,15,48,2.6,34,2.1,1336,0
+Dembélé,Spurs,Mousa,Dembélé,19,49,1.6,21,1.9,699,3
+Lamela,Spurs,Erik,Lamela,11,63,0.1,5,1.7,49,0
+Eriksen,Spurs,Christian,Eriksen,23,93,15.2,85,5.3,1332,14
+Alli,Spurs,Bamidele,Alli,20,91,13.3,67,4.5,1296,5
+Wanyama,Spurs,Victor,Wanyama,12,48,0.3,3,1.5,98,0
+Son,Spurs,Heung-Min,Son,7,80,3.1,60,4,796,5
+Winks,Spurs,Harry,Winks,29,48,0.3,22,1.7,606,0
+Nkoudou,Spurs,Georges-Kévin,Nkoudou,14,54,0,1,1,1,0
+Sissoko,Spurs,Moussa,Sissoko,17,54,0.4,30,2,689,0
+Kane,Spurs,Harry,Kane,10,129,40.1,94,6.3,1299,16
+Janssen,Spurs,Vincent,Janssen,9,74,0.1,1,1,1,0
+Pantilimon,Watford,Costel,Pantilimon,30,45,0.1,0,0,0,0
+Gomes,Watford,Heurelho,Gomes,1,45,2.5,51,3.2,1408,4
+Kaboul,Watford,Younes,Kaboul,4,43,0.2,7,3.5,151,0
+Cathcart,Watford,Craig,Cathcart,15,44,0,1,1,19,0
+Prödl,Watford,Sebastian,Prödl,5,43,0.2,14,2.8,365,0
+Holebas,Watford,José,Holebas,25,49,0.5,31,2.6,950,3
+Britos,Watford,Miguel,Britos,3,44,0.8,20,2.2,704,0
+Kabasele,Watford,Christian,Kabasele,27,46,1.9,47,3.1,1229,1
+Janmaat,Watford,Daryl,Janmaat,2,48,0.1,9,2.3,225,0
+Mariappa,Watford,Adrian,Mariappa,6,41,6.1,21,1.8,911,0
+Mason,Watford,Brandon,Mason,32,39,1.6,0,0,0,0
+Kiko Femenía,Watford,Francisco,Femenía Far,21,46,5.7,51,3.6,1208,9
+Cleverley,Watford,Tom,Cleverley,8,50,1.1,48,3,1410,3
+Capoue,Watford,Etienne,Capoue,29,49,1.5,15,2.1,228,0
+Amrabat,Watford,Nordin,Amrabat,7,50,0,6,2,198,0
+Success,Watford,Isaac,Success,10,53,0,0,0,0,0
+Doucouré,Watford,Abdoulaye,Doucouré,16,54,15.9,69,4.3,1440,11
+Pereyra,Watford,Roberto,Pereyra,37,58,0.1,22,2,420,0
+Hughes,Watford,Will,Hughes,19,46,0.6,26,5.2,323,3
+Deeney,Watford,Troy,Deeney,9,63,0.5,27,2.5,517,1
+Okaka,Watford,Stefano,Okaka,33,53,0.4,8,4,63,1
+Zárate,Watford,Mauro,Zárate,20,54,0,0,0,0,0
+Myhill,West Brom,Boaz,Myhill,13,40,3.5,1,1,90,0
+Foster,West Brom,Ben,Foster,1,44,10.6,44,2.9,1350,1
+Nyom,West Brom,Allan-Roméo,Nyom,2,49,1.4,37,2.8,1036,6
+Evans,West Brom,Jonny,Evans,6,49,0.7,26,2,1111,0
+Dawson,West Brom,Craig,Dawson,25,48,1.2,27,3,810,1
+McAuley,West Brom,Gareth,McAuley,23,47,0.5,4,0.8,258,0
+Livermore,West Brom,Jake,Livermore,8,49,0.2,33,2.2,1240,0
+Chadli,West Brom,Nacer,Chadli,22,57,0.2,12,6,159,3
+Morrison,West Brom,James,Morrison,7,54,0,13,3.3,205,0
+Yacob,West Brom,Claudio,Yacob,5,43,0.3,9,1.3,339,0
+McClean,West Brom,James,McClean,14,48,0.1,14,1.1,362,0
+Leko,West Brom,Jonathan,Leko,45,45,0,0,0,0,0
+Phillips,West Brom,Matt,Phillips,10,55,0.5,39,3,801,0
+Field,West Brom,Sam,Field,28,45,0.2,20,3.3,438,2
+Brunt,West Brom,Chris,Brunt,11,51,0.6,19,3.2,410,3
+Rondón,West Brom,Salomón,Rondón,9,60,0.7,30,2,968,0
+Robson-Kanu,West Brom,Hal,Robson-Kanu,4,49,0.5,19,1.7,487,1
+Rodriguez,West Brom,Jay,Rodriguez,19,56,0.7,36,2.4,1283,0
+Adrián,West Ham,Adrián,San Miguel del Castillo,13,43,0.5,7,3.5,180,0
+Randolph,West Ham,Darren,Randolph,1,45,0,0,0,0,0
+Fonte,West Ham,Jose,Fonte,4,48,1.1,34,4.3,688,3
+Collins,West Ham,James,Collins,19,43,0.1,8,2.7,237,0
+Reid,West Ham,Winston,Reid,2,48,0.7,31,2.6,1066,3
+Cresswell,West Ham,Aaron,Cresswell,3,50,0.7,43,2.9,1224,4
+Ogbonna,West Ham,Angelo,Ogbonna,21,43,1,22,2,990,3
+Byram,West Ham,Sam,Byram,22,43,0.1,0,0,0,0
+Masuaku,West Ham,Arthur,Masuaku,26,44,0.4,20,1.8,621,1
+Zabaleta,West Ham,Pablo,Zabaleta,5,49,1.6,36,2.4,1321,6
+Snodgrass,West Ham,Robert,Snodgrass,11,58,0.5,0,0,0,0
+Ayew,West Ham,André,Ayew,20,68,1.1,38,2.7,716,2
+Noble,West Ham,Mark,Noble,16,53,0.1,18,2,701,0
+Kouyaté,West Ham,Cheikhou,Kouyaté,8,50,0.3,37,2.8,1006,2
+Obiang,West Ham,Pedro,Obiang,14,44,1.1,29,2.4,914,3
+Lanzini,West Ham,Manuel,Lanzini,10,68,0.6,32,2.9,858,3
+Antonio,West Ham,Michail,Antonio,30,74,0.2,33,2.8,855,1
+Feghouli,West Ham,Sofiane,Feghouli,7,55,0,0,0,0,0
+Fernandes,West Ham,Edimilson,Fernandes,31,44,0.2,9,1.3,412,0
+Carroll,West Ham,Andy,Carroll,9,59,0.2,8,1,539,0
+Sakho,West Ham,Diafra,Sakho,15,55,0.2,19,1.5,272,1
+Fletcher,West Ham,Ashley,Fletcher,24,45,0.3,0,0,0,0
+Suttner,Brighton,Markus,Suttner,29,43,0.5,27,3,810,1
+Malone,Huddersfield,Scott,Malone,3,43,0.3,17,2.1,449,3
+Bakayoko,Chelsea,Tiemoué,Bakayoko,14,50,2.4,40,2.9,985,3
+Martina,Everton,Cuco,Martina,15,43,0.4,19,2.4,660,0
+Haidara,Newcastle,Massadio,Haidara,25,39,1.5,0,0,0,0
+de Jong,Newcastle,Siem,de Jong,15,49,0,0,0,0,0
+Aarons,Newcastle,Rolando,Aarons,16,43,0.2,2,1,50,0
+Hegazi,West Brom,Ahmed El-Sayed,Hegazi,26,45,18,49,3.1,1406,6
+Pope,Burnley,Nick,Pope,29,47,4.9,65,5,1134,9
+Christensen,Chelsea,Andreas,Christensen,27,55,3.4,38,3.2,874,1
+Musonda,Chelsea,Charly,Musonda,17,48,0,2,1,26,0
+Morata,Chelsea,Álvaro,Morata,9,108,31.9,85,5.7,1166,13
+Jakupovic,Leicester,Eldin,Jakupovic,17,43,0.1,0,0,0,0
+James,Leicester,Matty,James,22,44,0.2,8,2,338,0
+Robertson,Liverpool,Andrew,Robertson,26,46,0.9,15,3.8,360,3
+Pereira,Man Utd,Andreas,Pereira,15,49,0,0,0,0,0
+Manquillo,Newcastle,Javier,Manquillo,19,44,1.3,31,2.4,1170,1
+Murphy,Newcastle,Jacob,Murphy,7,50,0.1,16,1.5,486,0
+Hart,West Ham,Joe,Hart,25,44,7,45,3.2,1260,3
+Chambers,Arsenal,Calum,Chambers,21,47,0.2,0,0,0,0
+Brown,Brighton,Isaiah,Brown,37,52,0,14,1.3,285,0
+Riedewald,Crystal Palace,Jairo,Riedewald,44,47,0.1,4,1,124,0
+Danilo,Man City,Danilo Luiz,da Silva,3,50,1.8,25,3.6,379,0
+Mendy,Man City,Benjamin,Mendy,22,63,0.4,17,4.3,298,1
+Bartley,Swansea,Kyle,Bartley,27,43,0.1,3,1.5,75,0
+Watson,Watford,Ben,Watson,23,44,0.2,2,1,11,0
+Chicharito,West Ham,Javier,Hernández Balcázar,17,67,7.1,41,3.7,900,6
+Joselu,Newcastle,Jose Luis,Mato Sanmartín,21,55,0.7,40,2.9,1011,3
+Nelson,Arsenal,Reiss,Nelson,61,48,0,0,0,0,0
+Pröpper,Brighton,Davy,Pröpper,24,54,0.1,43,2.7,1440,1
+Lokilo,Crystal Palace,Jason,Lokilo,28,44,0.1,0,0,0,0
+Foden,Man City,Phil,Foden,47,47,0,0,0,0,0
+Diaz,Man City,Brahim,Diaz,55,47,0,0,0,0,0
+Mbemba,Newcastle,Chancel,Mbemba,18,40,11.1,17,2.4,588,3
+Merino,Newcastle,Mikel,Merino,23,50,0.1,34,2.6,883,4
+Hayden,Newcastle,Isaac,Hayden,14,45,0.3,27,1.8,1001,0
+Choupo-Moting,Stoke,Eric Maxim,Choupo-Moting,10,56,4.5,62,3.9,1330,6
+Walker-Peters,Spurs,Kyle,Walker-Peters,37,41,0.9,7,3.5,98,0
+Sinclair,Watford,Jerome,Sinclair,17,49,0.2,0,0,0,0
+Lemina,Southampton,Mario,Lemina,18,49,0.1,20,2,690,0
+Richarlison,Watford,Richarlison,de Andrade,11,66,20.6,77,4.8,1368,4
+Mangala,Man City,Eliaquim,Mangala,15,50,0.2,6,1.2,200,0
+Tomori,Chelsea,Fikayo,Tomori,31,45,0,0,0,0,0
+Scott,Chelsea,Kyle,Scott,36,44,0.1,0,0,0,0
+Ladapo,Crystal Palace,Olayinka Fredrick Oladotun,Ladapo,19,45,1.7,1,1,16,0
+Taylor,Southampton,Stuart,Taylor,28,40,0.4,0,0,0,0
+Harper,West Brom,Rekeem,Harper,34,45,0,1,1,20,0
+Wilson,West Brom,Kane,Wilson,49,40,0.2,0,0,0,0
+Boga,Chelsea,Jeremie,Boga,38,60,0,1,1,17,0
+Rice,West Ham,Declan,Rice,41,44,0,5,0.7,267,0
+Carter-Vickers,Spurs,Cameron,Carter-Vickers,38,45,0,0,0,0,0
+Jesé,Stoke,Jesé,Rodríguez Ruiz,11,55,2.6,26,2.9,482,2
+Martins Indi,Stoke,Bruno,Martins Indi,15,49,0,5,0.6,488,0
+Flanagan,Liverpool,Jon,Flanagan,38,44,0,0,0,0,0
+Kaikai,Crystal Palace,Sullay,Kaikai,25,44,0.1,1,1,13,0
+Saivet,Newcastle,Henri,Saivet,24,44,0,0,0,0,0
+Izquierdo,Brighton,José Heriberto,Izquierdo Mena,19,59,0,31,2.6,540,1
+Wood,Burnley,Chris,Wood,11,64,1.8,44,3.7,826,8
+Clucas,Swansea,Sam,Clucas,17,49,0,23,2.3,654,0
+Sánchez,Spurs,Davinson,Sánchez,6,60,0.4,36,3,952,0
+Hadergjonaj,Huddersfield,Florent,Hadergjonaj,33,45,0,9,1.8,292,2
+Sabiri,Huddersfield,Abdelhamid,Sabiri,11,49,0,9,2.3,187,0
+Ibrahimovic,Man Utd,Zlatan,Ibrahimovic,10,98,0.3,4,1,57,0
+Burke,West Brom,Oliver,Burke,17,51,0,8,1.6,68,0
+Hoedt,Southampton,Wesley,Hoedt,6,50,0,17,2.1,720,1
+Haksabanovic,West Ham,Sead,Haksabanovic,23,50,0,0,0,0,0
+Carrillo,Watford,André,Carrillo,28,55,0,28,2,731,0
+Anderson,Crystal Palace,Keshi,Anderson,31,45,0.4,0,0,0,0
+Woodman,Newcastle,Freddie,Woodman,41,40,0.2,0,0,0,0
+Ward,Liverpool,Danny,Ward,52,45,0,0,0,0,0
+Oakley-Boothe,Spurs,Tashan,Oakley-Boothe,46,45,0,0,0,0,0
+Aurier,Spurs,Serge,Aurier,24,59,0.3,10,1.7,456,0
+Krychowiak,West Brom,Grzegorz,Krychowiak,20,50,0.2,26,2.6,729,3
+Foyth,Spurs,Juan,Foyth,21,45,0,0,0,0,0
+Sanches,Swansea,Renato,Sanches,35,46,0.4,15,1.7,507,0
+Karnezis,Watford,Orestis,Karnezis,30,45,0,0,0,31,0
+Zeegelaar,Watford,Marvin,Zeegelaar,22,45,1.2,21,4.2,398,5
+Schelotto,Brighton,Ezequiel,Schelotto,21,44,0,3,0.6,88,0
+Vlasic,Everton,Nikola,Vlasic,27,55,0,9,1.5,274,0
+Krul,Brighton,Tim,Krul,26,40,0.9,0,0,0,0
+Dragovic,Leicester,Aleksandar,Dragovic,16,49,0,0,0,0,0
+Bony,Swansea,Wilfried,Bony,2,57,0.4,26,2.9,573,3
+Zappacosta,Chelsea,Davide,Zappacosta,21,59,0.4,32,3.6,534,1
+Lumeka,Crystal Palace,Levi,Lumeka,32,45,0,1,1,25,0
+Legzdins,Burnley,Adam,Legzdins,30,40,0.1,0,0,0,0
+Maitland-Niles,Arsenal,Ainsley,Maitland-Niles,30,45,0,1,1,1,0
+Green,Huddersfield,Robert,Green,28,40,0.2,0,0,0,0
+Niasse,Everton,Oumar,Niasse,19,50,5,40,5,422,8
+Ramsdale,Bournemouth,Aaron,Ramsdale,12,40,0.2,0,0,0,0
+Souttar,Stoke,Harry,Souttar,36,40,0.1,0,0,0,0
+Zinchenko,Man City,Oleksandr,Zinchenko,35,50,0,0,0,0,0
+Mutch,Crystal Palace,Jordon,Mutch,22,45,0,0,0,0,0
+Molumby,Brighton,Jayson,Molumby,49,45,0,0,0,0,0
+Lindegaard,Burnley,Anders,Lindegaard,22,40,0.2,0,0,0,0
+Henry,Crystal Palace,Dion,Henry,30,40,0.1,0,0,0,0
+Edwards,Stoke,Thomas,Edwards,42,40,0,0,0,121,0
+Palmer,West Brom,Alex,Palmer,40,40,0.2,0,0,0,0
+Ampadu,Chelsea,Ethan,Ampadu,44,45,0,0,0,0,0
+Macey,Arsenal,Matt,Macey,54,50,0,0,0,0,0
+Nketiah,Arsenal,Edward,Nketiah,62,50,0,0,0,0,0
+Rodon,Swansea,Joe,Rodon,61,40,0,0,0,0,0
+Ngoy,Stoke,Julien,Ngoy,28,45,0.4,0,0,0,0
+Baningime,Everton,Beni,Baningime,54,45,0,3,1,104,0
+Debuchy,Arsenal,Mathieu,Debuchy,2,45,0,0,0,0,0
+Gazzaniga,Spurs,Paulo,Gazzaniga,22,43,0.1,9,9,90,2
+Whiteman,Spurs,Alfie,Whiteman,41,40,0.1,0,0,0,0
+Martínez,West Ham,Antonio,Martinez Lopez,29,50,0,0,0,0,0
+Quina,West Ham,Domingos,Quina,36,45,0,0,0,0,0
+Haugaard,Stoke,Jakob,Haugaard,29,40,0,0,0,0,0
+Simpson,Bournemouth,Jack,Simpson,42,40,0,0,0,0,0
+Choudhury,Leicester,Hamza,Choudhury,38,45,0,1,1,7,0
+Melbourne,West Brom,Max,Melbourne,53,40,0,0,0,0,0
+Johnson,West Ham,Ben,Johnson,53,45,0,0,0,0,0
+Trott,West Ham,Nathan,Trott,34,40,0,0,0,0,0
+Ulvestad,Burnley,Fredrik,Ulvestad,20,45,0,0,0,0,0
+Mulder,Swansea,Erwin,Mulder,25,40,0,0,0,0,0
